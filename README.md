@@ -1,1 +1,0 @@
-# web-psychotest.github.io
