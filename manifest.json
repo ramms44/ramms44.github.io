@@ -1,6 +1,6 @@
 {
-    "name": "flutter_web_psychotest",
-    "short_name": "flutter_web_psychotest",
+    "name": "flutter_food_delivery_app_ui",
+    "short_name": "flutter_food_delivery_app_ui",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
