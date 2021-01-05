@@ -1,0 +1,99 @@
+[
+    {
+      "title": "Soal Test B",
+      "1": "Cenderung pendiam.",
+      "2": "Berbelas kasih, memiliki hati yang lembut.",
+      "3": "Cenderung tidak teratur.",
+      "4": "Pencemas.",
+      "5": "Terpersona pada seni, musik, atau sastra.",
+      "6": "Mendominasi, bertindak sebagai pemimpin.",
+      "7": "Terkadang kasar pada orang lain.",
+      "8": "Mengalami kesulitan untuk memulai tugas.",
+      "9": "Cenderung merasa tertekan, sedih.",
+      "10": "Kurang berminat pada ide-ide yang abstrak"
+    },
+    {
+      "1": {
+        "a": "Sangat Tidak Sesuai",
+        "b": "Tidak Sesuai",
+        "c": "Kadang - Kadang",
+        "d": "Sesuai",
+        "e": "Sangat Sesuai"
+      },
+      "2": {
+        "a": "Sangat Tidak Sesuai",
+        "b": "Tidak Sesuai",
+        "c": "Kadang - Kadang",
+        "d": "Sesuai",
+        "e": "Sangat Sesuai"
+      },
+      "3": {
+        "a": "Sangat Tidak Sesuai",
+        "b": "Tidak Sesuai",
+        "c": "Kadang - Kadang",
+        "d": "Sesuai",
+        "e": "Sangat Sesuai"
+      },
+      "4": {
+        "a": "Sangat Tidak Sesuai",
+        "b": "Tidak Sesuai",
+        "c": "Kadang - Kadang",
+        "d": "Sesuai",
+        "e": "Sangat Sesuai"
+      },
+      "5": {
+        "a": "Sangat Tidak Sesuai",
+        "b": "Tidak Sesuai",
+        "c": "Kadang - Kadang",
+        "d": "Sesuai",
+        "e": "Sangat Sesuai"
+      },
+      "6": {
+        "a": "Sangat Tidak Sesuai",
+        "b": "Tidak Sesuai",
+        "c": "Kadang - Kadang",
+        "d": "Sesuai",
+        "e": "Sangat Sesuai"
+      },
+      "7": {
+        "a": "Sangat Tidak Sesuai",
+        "b": "Tidak Sesuai",
+        "c": "Kadang - Kadang",
+        "d": "Sesuai",
+        "e": "Sangat Sesuai"
+      },
+      "8": {
+        "a": "Sangat Tidak Sesuai",
+        "b": "Tidak Sesuai",
+        "c": "Kadang - Kadang",
+        "d": "Sesuai",
+        "e": "Sangat Sesuai"
+      },
+      "9": {
+        "a": "Sangat Tidak Sesuai",
+        "b": "Tidak Sesuai",
+        "c": "Kadang - Kadang",
+        "d": "Sesuai",
+        "e": "Sangat Sesuai"
+      },
+      "10": {
+        "a": "Sangat Tidak Sesuai",
+        "b": "Tidak Sesuai",
+        "c": "Kadang - Kadang",
+        "d": "Sesuai",
+        "e": "Sangat Sesuai"
+      }
+    },
+    {
+      "1": "Sangat Sesuai",
+      "2": "Sangat Tidak Sesuai",
+      "3": "Sangat Tidak Sesuai",
+      "4": "Sangat Tidak Sesuai",
+      "5": "Sangat Sesuai",
+      "6": "Sangat Tidak Sesuai",
+      "7": "Tidak Sesuai",
+      "8": "Sangat Tidak Sesuai",
+      "9": "Sangat Tidak Sesuai",
+      "10": "Sangat Sesuai"
+    }
+]
