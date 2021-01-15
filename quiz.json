@@ -5,17 +5,17 @@
       "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "In the song &ldquo;The Ultimate Showdown of Ultimate Destiny,&rdquo; who is the only one to survive the battle?",
-      "correct_answer": "Mr. Rogers",
-      "incorrect_answers": ["Batman", "Chuck Norris", "Godzilla"]
+      "question": "Sakit adalah lawan dari ?",
+      "correct_answer": "Sembuh",
+      "incorrect_answers": ["Racun", "Kesedihan", "Kepedihan", "Hukuman"]
     },
     {
       "category": "Test W",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which country does Austria not border?",
-      "correct_answer": "France",
-      "incorrect_answers": ["Slovenia", "Switzerland", "Slovakia"]
+      "question": "100  -   97  -  94  -  ?  -  88  -  85  -  82, Dalam deretan angka-angka ini, terdapat angka yang dihilangkan. Angka berapakah itu?",
+      "correct_answer": "91",
+      "incorrect_answers": ["41", "31", "100", "32"]
     },
     {
       "category": "Test W",
