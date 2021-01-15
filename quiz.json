@@ -3,7 +3,7 @@
   "results": [
     {
       "category": "Test D",
-      "type": "multiple",
+      "type": "boolean",
       "difficulty": "medium",
       "question": "Mudah bergaul, ramah, mudah setuju ?",
       "correct_answer": "Least",
