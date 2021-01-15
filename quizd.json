@@ -10,7 +10,7 @@
       "incorrect_answers": ["Most"]
     },
     {
-      "category": "Test W",
+      "category": "Test D",
       "type": "boolean",
       "difficulty": "easy",
       "question": "Mempercayai, percaya pada orang lain ?",
@@ -18,7 +18,7 @@
       "incorrect_answers": ["Most"]
     },
     {
-      "category": "Test W",
+      "category": "Test D",
       "type": "boolean",
       "difficulty": "medium",
       "question": "Petualang, suka mengambil resiko ?",
@@ -26,18 +26,10 @@
       "incorrect_answers": ["Most"]
     },
     {
-      "category": "Test W",
+      "category": "Test D",
       "type": "boolean",
       "difficulty": "medium",
       "question": "Penuh toleransi, menghormati orang lain ?",
-      "correct_answer": "Least",
-      "incorrect_answers": ["Most"]
-    },
-    {
-      "category": "Test W",
-      "type": "boolean",
-      "difficulty": "medium",
-      "question": "Yang penting adalah hasil ?",
       "correct_answer": "Least",
       "incorrect_answers": ["Most"]
     }
