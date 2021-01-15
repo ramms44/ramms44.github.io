@@ -2,12 +2,12 @@
   "response_code": 0,
   "results": [
     {
-      "category": "Test W",
+      "category": "Test D",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Sakit adalah lawan dari ?",
-      "correct_answer": "Sembuh",
-      "incorrect_answers": ["Racun", "Kesedihan", "Kepedihan", "Hukuman"]
+      "question": "Mudah bergaul, ramah, mudah setuju ?",
+      "correct_answer": "",
+      "incorrect_answers": ["Most", "Least"]
     },
     {
       "category": "Test W",
