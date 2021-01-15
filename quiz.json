@@ -2,7 +2,7 @@
   "response_code": 0,
   "results": [
     {
-      "category": "Entertainment: Music",
+      "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
       "question": "In the song &ldquo;The Ultimate Showdown of Ultimate Destiny,&rdquo; who is the only one to survive the battle?",
@@ -10,7 +10,7 @@
       "incorrect_answers": ["Batman", "Chuck Norris", "Godzilla"]
     },
     {
-      "category": "Geography",
+      "category": "Test W",
       "type": "multiple",
       "difficulty": "easy",
       "question": "Which country does Austria not border?",
@@ -18,7 +18,7 @@
       "incorrect_answers": ["Slovenia", "Switzerland", "Slovakia"]
     },
     {
-      "category": "Sports",
+      "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
       "question": "A stimpmeter measures the speed of a ball over what surface?",
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "category": "General Knowledge",
+      "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
       "question": "What is the name of the very first video uploaded to YouTube?",
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "category": "Entertainment: Video Games",
+      "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
       "question": "Who was the first female protagonist in a video game?",
@@ -50,7 +50,7 @@
       "incorrect_answers": ["Lara Croft", "Alis Landale", "Chell"]
     },
     {
-      "category": "Entertainment: Video Games",
+      "category": "Test W",
       "type": "multiple",
       "difficulty": "hard",
       "question": "Which was the first M-rated video game developed by Squaresoft/Square Enix?",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "category": "Entertainment: Video Games",
+      "category": "Test W",
       "type": "boolean",
       "difficulty": "easy",
       "question": "In Sonic the Hedgehog universe, Tails&#039; real name is Miles Prower.",
@@ -70,7 +70,7 @@
       "incorrect_answers": ["False"]
     },
     {
-      "category": "History",
+      "category": "Test W",
       "type": "multiple",
       "difficulty": "hard",
       "question": "Which countries participated in the Lobster War?",
@@ -82,20 +82,12 @@
       ]
     },
     {
-      "category": "General Knowledge",
+      "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
       "question": "The Mexican Beer &quot;Corona&quot; is what type of beer?",
       "correct_answer": "Pale Lager",
       "incorrect_answers": ["India Pale Ale", "Pilfsner", "Baltic Porter"]
-    },
-    {
-      "category": "Entertainment: Video Games",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "How many obsidian blocks are required to build a nether portal in Minecraft?",
-      "correct_answer": "10",
-      "incorrect_answers": ["14", "13", "16"]
     }
   ]
 }
