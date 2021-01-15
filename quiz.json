@@ -7,7 +7,7 @@
       "difficulty": "medium",
       "question": "Mudah bergaul, ramah, mudah setuju ?",
       "correct_answer": "Least",
-      "incorrect_answers": ["Most", "Least"]
+      "incorrect_answers": ["Most"]
     },
     {
       "category": "Test W",
