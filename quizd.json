@@ -33,11 +33,13 @@
       "correct_answer": "Least",
       "incorrect_answers": ["Most"]
     },
+
+
     {
       "category": "Test D",
       "type": "boolean",
       "difficulty": "medium",
-      "question": "Mudah bergaul, ramah, mudah setuju ?",
+      "question": "Yang penting adalah hasil ?",
       "correct_answer": "Least",
       "incorrect_answers": ["Most"]
     },
@@ -45,7 +47,7 @@
       "category": "Test D",
       "type": "boolean",
       "difficulty": "easy",
-      "question": "Mempercayai, percaya pada orang lain ?",
+      "question": "Kerjakan dengan benar, ketepatan sangat penting ?",
       "correct_answer": "Least",
       "incorrect_answers": ["Most"]
     },
@@ -53,7 +55,7 @@
       "category": "Test D",
       "type": "boolean",
       "difficulty": "medium",
-      "question": "Petualang, suka mengambil resiko ?",
+      "question": "Buat agar menyenangkan ?",
       "correct_answer": "Least",
       "incorrect_answers": ["Most"]
     },
@@ -61,7 +63,701 @@
       "category": "Test D",
       "type": "boolean",
       "difficulty": "medium",
-      "question": "Penuh toleransi, menghormati orang lain ?",
+      "question": "Kerjakan bersama-sama ?",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Pendidikan, Kebudayaan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Prestasi, penghargaan ?",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Keselamatan, keamanan ?",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Sosial, pertemuan kelompok ?",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Lembut, tertutup",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Visioner/pandangan ke depan ?",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Pusat perhatian, suka bersosialisasi ?",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Pendamai, membawa kehangatan ?",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Menahan diri, bisa hidup tanpa memiliki",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Membeli karena dorongan hasrat/impulsif",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Akan menunggu, tanpa tekanan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Akan membeli apa yang diinginkan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Mengambil kendali, bersikap langsung/direct",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Suka bergaul, antusias",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Mudah ditebak, konsisten",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Waspada berhati-hati",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Menyemangati orang lain",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Berusaha mencapai kesempurnaan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Menjadi bagian dari tim/kelompok",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Ingin menetapkan tujuan/goal",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Bersahabat, mudah bergaul",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Unik, bosan pada rutinitas",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Aktif melakukan perubahan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Ingin segala sesuatu akurat dan pasti",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Sulit dikalahkan/ditundukan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Melaksanakan sesuai perintah",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Bersemangat, riang",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Ingin ketekunan, rapi",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Mudah menjadi frustasi",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Memendam perasaan dalam hati",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Menyampaikan sudut pandang pribadi",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Berani menghadapi oposisi",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Mengalah, tidak suka pertentangan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Penuh dengan hal-hal kecil/detil",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Berubah pada menit-menit terakhir",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Mendesak/memaksa, agak kasar",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Saya akan pimpin mereka",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Saya akan ikut/mengikuti",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Saya akan pengaruhi/bujuk mereka",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Saya akan mendapatkan fakta-faktanya",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Hidup/Lincah, banyak bicara",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Cepat, penuh keyakinan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Berusaha menjaga keseimbangan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Berusaha patuh pada aturan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Ingin kemajuan/peningkatan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Puas dengan keadaan, tenang/mudah puas",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Menunjukkan perasaan dengan terbuka",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Rendah hati, sederhana",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Lebih dulu memikirkan orang lain",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Suka bersaing/kompetisi. Suka tantangan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Optimis, berfikir positif",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Sistematis, berpikir logis",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Mengelola waktu dengan efisien",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Sering terburu-buru, merasa ditekan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Hal-hal sosial adalah penting",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Suka menyelesaikan hal yang sudah dimulai",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Tenang, pendiam, tertutup",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Gembira, bebas, riang",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Menyenangkan, baik hati",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Mencolok, berani",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Menolak perubahan yang mendadak",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Cenderung terlalu banyak janji",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Mundur apabila dibawah tekanan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Tidak takut berkelahi",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Menyediakan waktu untuk orang lain",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Merencanakan masa depan, bersiap-siap",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Menuju petualangan baru",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Terima penghargaan atas pencapaian target",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Ingin wewenang/kekuasaan lebih",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Ingin kesempatan baru",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Menghindari perselisihan/konflik apapun",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Ingin arahan yang jelas",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Pemberi semangat/pendukung yang baik",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Pendengar yang baik",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Penganalisa yang baik",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Pendelegasi yang baik/pandai membagi tugas",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Peraturan perlu diuji",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Peraturan membuat menjadi adil",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Peraturan membuat menjadi membosankan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Peraturan membuat menjadi aman",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Dapat dipercaya dan diandalkan",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Kreatif, unik",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Berorientasi pada hasil/profit/untung",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Memegang teguh standar yang tinggi. Akurat",
       "correct_answer": "Least",
       "incorrect_answers": ["Most"]
     }
