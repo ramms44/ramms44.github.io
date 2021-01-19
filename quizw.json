@@ -130,7 +130,10 @@
       "difficulty": "medium",
       "question": "LIBURAN - KERJA",
       "correct_answer": "memiliki arti yang berlawanan",
-      "incorrect_answers": ["memiliki arti yang sama", "tidak memiliki arti yang sama maupun berlawanan"]
+      "incorrect_answers": [
+        "memiliki arti yang sama",
+        "tidak memiliki arti yang sama maupun berlawanan"
+      ]
     },
     {
       "category": "Test W",
@@ -140,7 +143,6 @@
       "correct_answer": "1/9",
       "incorrect_answers": ["2", "4"]
     },
-
     {
       "category": "Test W",
       "type": "multiple",
@@ -149,6 +151,5 @@
       "correct_answer": "5",
       "incorrect_answers": ["2", "4"]
     }
-    
   ]
 }
