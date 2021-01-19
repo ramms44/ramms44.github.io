@@ -83,7 +83,57 @@
       "question": "Sebuah mobil menempuh 16 km dalam 30 menit. Berapa km per jam, mobil itu melaju",
       "correct_answer": "32",
       "incorrect_answers": ["23", "42"]
+    },
+    {
+      "category": "Test W",
+      "type": "shortanswer",
+      "difficulty": "medium",
+      "question": "Seorang anak membeli beberapa buah jeruk seharga 2.000 rupiah. Ia menjual buah jeruk itu seharga 2.400 rupiah ke temannya. Ia mendapat untung 50 rupiah dari setiap jeruk. Berapa banyak jeruk yang anak itu beli?",
+      "correct_answer": "8",
+      "incorrect_answers": ["2", "3"]
+    },
+    {
+      "category": "Test W",
+      "type": "shortanswer",
+      "difficulty": "medium",
+      "question": "Dari enam pasangan ini, ada berapakah jumlah pasangan yg duplikasi sama",
+      "correct_answer": "8",
+      "incorrect_answers": ["2", "3"]
+    },
+    {
+      "category": "Test W",
+      "type": "shortanswer",
+      "difficulty": "medium",
+      "question": "Seorang anak berumur 6 tahun, kakaknya dua kali lebih tua darinya. Saat anak itu berumur 10 tahun, berapa umur kakaknya",
+      "correct_answer": "16",
+      "incorrect_answers": ["17", "21"]
+    },
+    {
+      "category": "Test W",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pada kata-kata di bawah ini, manakah kata yang berbeda dengan yang lainnya?",
+      "correct_answer": "seorang pria",
+      "incorrect_answers": ["armada", "band", "anak-anak", "kerumunan"]
+    },
+    {
+      "category": "Test W",
+      "type": "shortanswer",
+      "difficulty": "medium",
+      "question": "adalah – bumi – bentuk – bulat – kita \nSusunlah kata di atas menjadi pernyataan yang benar. Lalu tulislah HURUF terakhir dari kata yang paling akhir",
+      "correct_answer": "T",
+      "incorrect_answers": ["A", "C", "H", "F"]
+    },
+    {
+      "category": "Test W",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "LIBURAN - KERJA",
+      "correct_answer": "memiliki arti yang berlawanan",
+      "incorrect_answers": [
+        "memiliki arti yang sama",
+        "tidak memiliki arti yang sama maupun berlawanan"
+      ]
     }
-    
   ]
 }
