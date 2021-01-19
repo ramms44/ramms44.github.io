@@ -134,6 +134,14 @@
         "memiliki arti yang sama",
         "tidak memiliki arti yang sama maupun berlawanan"
       ]
+    },
+    {
+      "category": "Test W",
+      "type": "shortanswer",
+      "difficulty": "medium",
+      "question": "81  -  27  -  9  -  3  -  1  -  1/3 \n Lihatlah baris angka di atas. Angka berapakah yang muncul selanjutnya? ",
+      "correct_answer": "1/9",
+      "incorrect_answers": ["2", "4"]
     }
   ]
 }
