@@ -156,22 +156,6 @@
       "question": "Dari 5 pasangan nama di bawah ini, berapa banyak pasangan nama yang sama",
       "correct_answer": ["5"],
       "incorrect_answers": ["1", "2"]
-    },
-    {
-      "category": "Test W",
-      "type": "boolean",
-      "difficulty": "medium",
-      "question": "semua – adalah – orang Jawa – Indonesia – dari – warga negara \nSusunlah kata-kata di atas menjadi sebuah kalimat pernyataan. \nApakah kalimat pernyataan itu benar atau salah?",
-      "correct_answer": "Salah",
-      "incorrect_answers": ["Benar"]
-    },
-    {
-      "category": "Test W",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Semua pria berambut keriting menyukai permen. \nCharles berambut keriting. Charles menyukai permen. \nAnggaplah dua pernyataan pertama adalah benar. Maka pernyataan ketiga : ",
-      "correct_answer": "Benar",
-      "incorrect_answers": ["Salah", "Tidak Tahu"]
     }
     
   ]
