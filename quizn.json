@@ -3,7 +3,7 @@
   "results": [
     {
       "category": "Test N",
-      "type": "shortanswer",
+      "type": "multiple",
       "difficulty": "medium",
       "question": "1, 0, 4, 2, 1, 5, 3, 2, Y \nLanjutkan deret angka diatas, maka Y adalah bilangan",
       "correct_answer": "6",
