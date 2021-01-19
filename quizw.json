@@ -11,7 +11,7 @@
     },
     {
       "category": "Test W",
-      "type": "multiple",
+      "type": "shortanswer",
       "difficulty": "medium",
       "question": "100  -   97  -  94  -  ?  -  88  -  85  -  82 \nDalam deretan angka-angka ini, terdapat angka yang dihilangkan. Angka berapakah itu?",
       "correct_answer": "91",
