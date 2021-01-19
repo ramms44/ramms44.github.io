@@ -3,6 +3,14 @@
   "results": [
     {
       "category": "Test W",
+      "type": "shortanswer",
+      "difficulty": "medium",
+      "question": "Dari 5 pasangan nama di bawah ini, berapa banyak pasangan nama yang sama",
+      "correct_answer": ["5"],
+      "incorrect_answers": ["1", "2"]
+    },
+    {
+      "category": "Test W",
       "type": "boolean",
       "difficulty": "medium",
       "question": "semua – adalah – orang Jawa – Indonesia – dari – warga negara \nSusunlah kata-kata di atas menjadi sebuah kalimat pernyataan. \nApakah kalimat pernyataan itu benar atau salah?",

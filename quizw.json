@@ -148,14 +148,6 @@
       "question": "Bentuk geometris ini dapat dibagi oleh sebuah garis lurus menjadi dua bagian yang kemudian dapat digabungkan untuk membentuk segi empat yang sempurna. \nTariklah garis itu dengan menghubungkan dua angka. Angka apa sajakah itu?",
       "correct_answer": "5",
       "incorrect_answers": ["2", "4"]
-    },
-    {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Dari 5 pasangan nama di bawah ini, berapa banyak pasangan nama yang sama",
-      "correct_answer": ["5"],
-      "incorrect_answers": ["1", "2"]
     }
     
   ]
