@@ -45,14 +45,6 @@
       "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Berlambat-lambat adalah lawan kata dari ",
-      "correct_answer": "Tergesa - gesa",
-      "incorrect_answers": ["Mempertahankan", "Menuntut", "Tetap", "Pelan"]
-    },
-    {
-      "category": "Test W",
-      "type": "multiple",
-      "difficulty": "medium",
       "question": "Biola semelodi dengan piano. Piano semelodi dengan harpa. Biola semelodi dengan harpa. \nDari pernyataan di atas, anggaplah dua pernyataan pertama adalah benar. Maka pernyataan terakhir adalah ",
       "correct_answer": "Benar",
       "incorrect_answers": ["Salah", "Tidak Tahu"]
@@ -287,15 +279,15 @@
     },
     {
       "category": "Test W",
-      "type": "multiple",
+      "type": "shortanswer",
       "difficulty": "medium",
-      "question": "Ada 3  dari 5 bangun di bawah ini yang jika disatukan dapat membentuk segitiga. Manakah ketiga bangun itu? \nSatu angka dalam deretan ini tidak cocok dengan pola yang ada.  Angka berapakah itu? Klik cek box di depan angka",
+      "question": "8  -  9  - 12  - 13  -  16  -  17  -  18 \nDeret angka di atas memiliki kesalahan yaitu URUTAN angka yang ke..",
       "correct_answer": "7",
       "incorrect_answers": ["5", "3"]
     },
     {
       "category": "Test W",
-      "type": "shortanswer",
+      "type": "multiple",
       "difficulty": "medium",
       "question": "41  -   2  -  1   -  0.8  -  0.888  -   0.99 \nAngka berapa yang terkecil dalam rangkaian di atas? ",
       "correct_answer": "0.8",
