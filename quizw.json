@@ -259,9 +259,9 @@
       "category": "Test W",
       "type": "shortanswer",
       "difficulty": "medium",
-      "question": "Dari 5 pasangan nama di bawah ini, berapa banyak pasangan nama yang sama",
-      "correct_answer": "1/9",
-      "incorrect_answers": ["2", "4"]
+      "question": "Sepotong daging sapi beratnya 250 kg. \nRata-rata konsumsi daging sapi dalam keluarga setiap harinya adalah 1.6 kg. \nBerapa lama daging sapi ini akan dihabiskan keluarga itu?",
+      "correct_answer": "150",
+      "incorrect_answers": ["80", "160"]
     },
     {
       "category": "Test W",
