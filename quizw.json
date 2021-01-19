@@ -70,7 +70,7 @@
     },
     {
       "category": "Test W",
-      "type": "multiple",
+      "type": "shortanswer",
       "difficulty": "medium",
       "question": "Sebuah mobil menempuh 16 km dalam 30 menit. Berapa km per jam, mobil itu melaju",
       "correct_answer": "32",
@@ -78,9 +78,17 @@
     },
     {
       "category": "Test W",
-      "type": "multiple",
+      "type": "shortanswer",
       "difficulty": "medium",
       "question": "Seorang anak membeli beberapa buah jeruk seharga 2.000 rupiah. Ia menjual buah jeruk itu seharga 2.400 rupiah ke temannya. Ia mendapat untung 50 rupiah dari setiap jeruk. Berapa banyak jeruk yang anak itu beli?",
+      "correct_answer": "8",
+      "incorrect_answers": ["2", "3"]
+    },
+    {
+      "category": "Test W",
+      "type": "shortanswer",
+      "difficulty": "medium",
+      "question": "Dari enam pasangan ini, ada berapakah jumlah pasangan yg duplikasi sama",
       "correct_answer": "8",
       "incorrect_answers": ["2", "3"]
     },
