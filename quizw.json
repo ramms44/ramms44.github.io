@@ -267,25 +267,25 @@
       "category": "Test W",
       "type": "shortanswer",
       "difficulty": "medium",
-      "question": "Dari 5 pasangan nama di bawah ini, berapa banyak pasangan nama yang sama",
-      "correct_answer": "1/9",
-      "incorrect_answers": ["2", "4"]
+      "question": "8  -  9  - 12  - 13  -  16  -  17  -  18 \nDeret angka di atas memiliki kesalahan yaitu URUTAN angka yang ke..",
+      "correct_answer": "7",
+      "incorrect_answers": ["5", "3"]
+    },
+    {
+      "category": "Test W",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Ada 3  dari 5 bangun di bawah ini yang jika disatukan dapat membentuk segitiga. \nManakah ketiga bangun itu? \nSatu angka dalam deretan ini tidak cocok dengan pola yang ada. \nAngka berapakah itu? Klik cek box di depan angka",
+      "correct_answer": "7",
+      "incorrect_answers": ["5", "3"]
     },
     {
       "category": "Test W",
       "type": "shortanswer",
       "difficulty": "medium",
-      "question": "Dari 5 pasangan nama di bawah ini, berapa banyak pasangan nama yang sama",
-      "correct_answer": "1/9",
-      "incorrect_answers": ["2", "4"]
-    },
-    {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Dari 5 pasangan nama di bawah ini, berapa banyak pasangan nama yang sama",
-      "correct_answer": "1/9",
-      "incorrect_answers": ["2", "4"]
+      "question": "41  -   2  -  1   -  0.8  -  0.888  -   0.99 \nAngka berapa yang terkecil dalam rangkaian di atas? ",
+      "correct_answer": "0.8",
+      "incorrect_answers": ["0.4", "0.3"]
     }
   ]
 }
