@@ -11,7 +11,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "100  -   97  -  94  -  ?  -  88  -  85  -  82 \nDalam deretan angka-angka ini, terdapat angka yang dihilangkan. Angka berapakah itu?",
         "correct_answer": "91",
@@ -78,7 +78,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "Sebuah mobil menempuh 16 km dalam 30 menit. Berapa km per jam, mobil itu melaju",
         "correct_answer": "32",
@@ -86,7 +86,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "Seorang anak membeli beberapa buah jeruk seharga 2.000 rupiah. Ia menjual buah jeruk itu seharga 2.400 rupiah ke temannya. Ia mendapat untung 50 rupiah dari setiap jeruk. Berapa banyak jeruk yang anak itu beli?",
         "correct_answer": "8",
@@ -94,7 +94,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "Dari enam pasangan ini, ada berapakah jumlah pasangan yg duplikasi sama",
         "correct_answer": "8",
@@ -102,7 +102,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "Seorang anak berumur 6 tahun, kakaknya dua kali lebih tua darinya. Saat anak itu berumur 10 tahun, berapa umur kakaknya",
         "correct_answer": "16",
@@ -118,7 +118,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "adalah – bumi – bentuk – bulat – kita \nSusunlah kata di atas menjadi pernyataan yang benar. Lalu tulislah HURUF terakhir dari kata yang paling akhir",
         "correct_answer": "T",
@@ -137,7 +137,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "81  -  27  -  9  -  3  -  1  -  1/3 \n Lihatlah baris angka di atas. Angka berapakah yang muncul selanjutnya? ",
         "correct_answer": "1/9",
@@ -167,7 +167,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "Dari 5 pasangan nama di bawah ini, berapa banyak pasangan nama yang sama",
         "correct_answer": ["5"],
@@ -191,7 +191,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "Sebuah kotak persegi empat yang terisi penuh, memuat 900 sentimeter kubik pasir. Jika satu kotak lebarnya 10 sentimeter dan panjangnya 10 sentimeter, berapa tinggi kotak itu?",
         "correct_answer": "9",
@@ -199,7 +199,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "Sebuah jam terlambat 1 menit 12 detik dalam 24 hari. Berapa detik ia terlambat setiap harinya?",
         "correct_answer": "3",
@@ -215,7 +215,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "Pulsa telpon per menit biayanya 300 rupiah. Berapa menit anda dapat memakai untuk 10.000 rupiah?",
         "correct_answer": "33,33",
@@ -223,7 +223,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "Jumlah duplikasi dari pasangan kata di bawah ini adalah? ",
         "correct_answer": "1",
@@ -231,7 +231,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "Bila 2 ½ meter kain harganya 20.000 rupiah, berapa harga 3½ meter kain?",
         "correct_answer": "28000",
@@ -239,7 +239,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "Dua orang menangkap 75 ikan. A menangkap 4 kali lebih banyak dari B. Berapa ikan yang B tangkap",
         "correct_answer": "15",
@@ -263,7 +263,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "  2   -  1   -   9  -   0.9  -   0.999  -  0.88 \nApakah angka terkecil dari deret angka tersebut?",
         "correct_answer": "0.88",
@@ -271,7 +271,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "Sepotong daging sapi beratnya 250 kg. Rata-rata konsumsi daging sapi dalam keluarga setiap harinya adalah    1.6 kg. Berapa lama daging sapi ini akan dihabiskan keluarga itu?",
         "correct_answer": "150",
@@ -279,7 +279,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "8  -  9  - 12  - 13  -  16  -  17  -  18 \nDeret angka di atas memiliki kesalahan yaitu URUTAN angka yang ke..",
         "correct_answer": "7",
@@ -295,7 +295,7 @@
       },
       {
         "category": "Test W",
-        "type": "shortanswer",
+        "type": "multiple",
         "difficulty": "medium",
         "question": "41  -   2  -  1   -  0.8  -  0.888  -   0.99 \nAngka berapa yang terkecil dalam rangkaian di atas? ",
         "correct_answer": "0.8",
