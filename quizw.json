@@ -152,6 +152,8 @@
       "correct_answer": "5",
       "incorrect_answers": ["2", "4"]
     },
+    
+
     {
       "category": "Test W",
       "type": "shortanswer",
@@ -162,9 +164,9 @@
     },
     {
       "category": "Test W",
-      "type": "multiple",
+      "type": "boolean",
       "difficulty": "medium",
-      "question": "semua – adalah – orang Jawa – Indonesia – dari – warga negara \nSusunlah kata-kata di atas menjadi sebuah kalimat pernyataan. Apakah kalimat pernyataan itu benar atau salah?",
+      "question": "semua – adalah – orang Jawa – Indonesia – dari – warga negara \nSusunlah kata-kata di atas menjadi sebuah kalimat pernyataan. \nApakah kalimat pernyataan itu benar atau salah?",
       "correct_answer": "Salah",
       "incorrect_answers": ["Benar"]
     },
@@ -172,7 +174,7 @@
       "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Semua pria berambut keriting menyukai permen. Charles berambut keriting. Charles menyukai permen. \nAnggaplah dua pernyataan pertama adalah benar. Maka pernyataan ketiga : ",
+      "question": "Semua pria berambut keriting menyukai permen. \nCharles berambut keriting. Charles menyukai permen. \nAnggaplah dua pernyataan pertama adalah benar. Maka pernyataan ketiga : ",
       "correct_answer": "Benar",
       "incorrect_answers": ["Salah", "Tidak Tahu"]
     },
@@ -180,7 +182,7 @@
       "category": "Test W",
       "type": "shortanswer",
       "difficulty": "medium",
-      "question": "Sebuah kotak persegi empat yang terisi penuh, memuat 900 sentimeter kubik pasir. Jika satu kotak lebarnya 10 sentimeter dan panjangnya 10 sentimeter, berapa tinggi kotak itu?",
+      "question": "Sebuah kotak persegi empat yang terisi penuh, memuat 900 sentimeter kubik pasir. \nJika satu kotak lebarnya 10 sentimeter dan panjangnya 10 sentimeter, berapa tinggi kotak itu?",
       "correct_answer": "9",
       "incorrect_answers": ["4", "3", "7"]
     },
@@ -188,7 +190,7 @@
       "category": "Test W",
       "type": "shortanswer",
       "difficulty": "medium",
-      "question": "Sebuah jam terlambat 1 menit 12 detik dalam 24 hari. Berapa detik ia terlambat setiap harinya?",
+      "question": "Sebuah jam terlambat 1 menit 12 detik dalam 24 hari. \nBerapa detik ia terlambat setiap harinya?",
       "correct_answer": "3",
       "incorrect_answers": ["4", "2", "7"]
     },
@@ -196,7 +198,7 @@
       "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Semua pemimpin berjiwa progresif. Sebagian besar pemimpin adalah wirausahawan. Orang yang berjiwa progresif adalah wirausahawan. \nAnggaplah dua pernyataan pertama ini benar. Apakah pertanyaan terakhir: ",
+      "question": "Semua pemimpin berjiwa progresif. Sebagian besar pemimpin adalah wirausahawan. \nOrang yang berjiwa progresif adalah wirausahawan. \nAnggaplah dua pernyataan pertama ini benar. Apakah pertanyaan terakhir: ",
       "correct_answer": "Benar",
       "incorrect_answers": ["Salah", "Tidak Tahu"]
     },
@@ -204,7 +206,7 @@
       "category": "Test W",
       "type": "shortanswer",
       "difficulty": "medium",
-      "question": "Pulsa telpon per menit biayanya 300 rupiah. Berapa menit anda dapat memakai untuk 10.000 rupiah?",
+      "question": "Pulsa telpon per menit biayanya 300 rupiah. \nBerapa menit anda dapat memakai untuk 10.000 rupiah?",
       "correct_answer": "33,33",
       "incorrect_answers": ["22,22", "44", "99"]
     },
@@ -228,7 +230,7 @@
       "category": "Test W",
       "type": "shortanswer",
       "difficulty": "medium",
-      "question": "Dua orang menangkap 75 ikan. A menangkap 4 kali lebih banyak dari B. Berapa ikan yang B tangkap",
+      "question": "Dua orang menangkap 75 ikan. \nA menangkap 4 kali lebih banyak dari B. Berapa ikan yang B tangkap",
       "correct_answer": "15",
       "incorrect_answers": ["14", "28", "30"]
     },
@@ -244,7 +246,7 @@
       "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Berto memberi salam pada Elis. Elis memberi salam pada Luki. Berto tidak memberi salam pada Luki. \nAnggaplah dua pernyataan pertama benar. Maka pernyataan terakhir:",
+      "question": "Berto memberi salam pada Elis. Elis memberi salam pada Luki. \nBerto tidak memberi salam pada Luki. \nAnggaplah dua pernyataan pertama benar. Maka pernyataan terakhir:",
       "correct_answer": "Tidak Tahu",
       "incorrect_answers": ["Benar", "Salah"]
     },
@@ -260,7 +262,7 @@
       "category": "Test W",
       "type": "shortanswer",
       "difficulty": "medium",
-      "question": "Sepotong daging sapi beratnya 250 kg. Rata-rata konsumsi daging sapi dalam keluarga setiap harinya adalah    1.6 kg. Berapa lama daging sapi ini akan dihabiskan keluarga itu?",
+      "question": "Sepotong daging sapi beratnya 250 kg. \nRata-rata konsumsi daging sapi dalam keluarga setiap harinya adalah 1.6 kg. \nBerapa lama daging sapi ini akan dihabiskan keluarga itu?",
       "correct_answer": "150",
       "incorrect_answers": ["80", "160"]
     },
@@ -276,7 +278,7 @@
       "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Ada 3  dari 5 bangun di bawah ini yang jika disatukan dapat membentuk segitiga. Manakah ketiga bangun itu? \nSatu angka dalam deretan ini tidak cocok dengan pola yang ada.  Angka berapakah itu? Klik cek box di depan angka",
+      "question": "Ada 3  dari 5 bangun di bawah ini yang jika disatukan dapat membentuk segitiga. \nManakah ketiga bangun itu? \nSatu angka dalam deretan ini tidak cocok dengan pola yang ada. \nAngka berapakah itu? Klik cek box di depan angka",
       "correct_answer": "7",
       "incorrect_answers": ["5", "3"]
     },
@@ -288,5 +290,6 @@
       "correct_answer": "0.8",
       "incorrect_answers": ["0.4", "0.3"]
     }
+    
   ]
 }
