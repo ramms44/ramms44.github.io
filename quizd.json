@@ -568,6 +568,39 @@
       "category": "Test D",
       "type": "boolean",
       "difficulty": "medium",
+      "question": "Menyenangkan orang lain, ramah, penurut",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Tertawa lepas, hidup",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Pemberani, tegas",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Pendiam, tertutup, tenang",
+      "correct_answer": "Least",
+      "incorrect_answers": ["Most"]
+    },
+
+    {
+      "category": "Test D",
+      "type": "boolean",
+      "difficulty": "medium",
       "question": "Menolak perubahan yang mendadak",
       "correct_answer": "Least",
       "incorrect_answers": ["Most"]

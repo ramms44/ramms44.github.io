@@ -157,6 +157,14 @@
         "category": "Test B",
         "type": "multiple",
         "difficulty": "medium",
+        "question": "Memiliki sedikit minat seni.",
+        "correct_answer": "Sangat Tidak Sesuai",
+        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sanga Sesuai"]
+      },
+      {
+        "category": "Test B",
+        "type": "multiple",
+        "difficulty": "medium",
         "question": "Lebih suka jika orang lain yang bertanggung jawab.",
         "correct_answer": "Sangat Tidak Sesuai",
         "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sanga Sesuai"]
