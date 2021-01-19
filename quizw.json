@@ -147,13 +147,9 @@
       "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Bentuk geometris ini dapat dibagi oleh sebuah garis lurus menjadi dua bagian yang kemudian dapat digabungkan untuk membentuk segi empat yang sempurna. Tariklah garis itu dengan menghubungkan dua angka. Angka apa sajakah itu? \nPilih angka-angka tersebut dengan klik cek box",
+      "question": "Bentuk geometris ini dapat dibagi oleh sebuah garis lurus menjadi dua bagian yang kemudian dapat digabungkan untuk membentuk segi empat yang sempurna. \nTariklah garis itu dengan menghubungkan dua angka. Angka apa sajakah itu? \nPilih angka-angka tersebut dengan klik cek box",
       "correct_answer": ["5"],
-      "incorrect_answers": [
-        "1",
-        "2",
-        "3"
-      ]
+      "incorrect_answers": ["1", "2", "3", "4"]
     }
   ]
 }
