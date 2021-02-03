@@ -20,13 +20,13 @@
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="flutter_web_psychotest">
+  <meta name="apple-mobile-web-app-title" content="parse_login_tuto">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>flutter_web_psychotest</title>
+  <title>parse_login_tuto</title>
   <link rel="manifest" href="manifest.json">
 </head>
 <body>
@@ -35,17 +35,21 @@
        https://developers.google.com/web/fundamentals/primers/service-workers -->
 
   <!-- The core Firebase JS SDK is always required and must be listed first -->
-  <script src="https://www.gstatic.com/firebasejs/7.22.1/firebase-app.js"></script>
-<!-- <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-database.js"></script> -->
+  <script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-app.js"></script>
+  <!-- <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-database.js"></script> -->
 
 
   <!-- If you enabled Analytics in your project, add the Firebase SDK for Analytics -->
-  <script src="https://www.gstatic.com/firebasejs/7.22.1/firebase-analytics.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-analytics.js"></script>
 
-<!-- TODO: Add SDKs for Firebase products that you want to use
+  <!-- TODO: Add SDKs for Firebase products that you want to use
      https://firebase.google.com/docs/web/setup#available-libraries -->
-<script src="https://www.gstatic.com/firebasejs/7.22.1/firebase-auth.js"></script>
-<script src="https://www.gstatic.com/firebasejs/7.22.1/firebase-firestore.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-firestore.js"></script>
+
+<!-- firebase messaging -->
+<script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-messaging.js"></script>
+
 
 <script>
   // Your web app's Firebase configuration
@@ -60,18 +64,63 @@
     appId: "1:1065253805711:web:03c6f40704f79a9ffadafa",
     measurementId: "G-5G54B32PF5"
   };
+
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
   firebase.analytics();
+
+  // firebase.initializeApp(firebaseConfig);
+  // firebase.analytics();
+
+  // var messaging = firebase.messaging()
+
+  // messaging.usePublicVapidKey('Your Key');
+
+  // messaging.getToken().then((currentToken) => {
+  //   console.log(currentToken)
+  // })
+
+  // firebase push notification
+  //   const messaging = firebase.messaging();
+  //   messaging.setBackgroundMessageHandler(function (payload) {
+  //     const promiseChain = clients
+  //         .matchAll({
+  //             type: "window",
+  //             includeUncontrolled: true
+  //         })
+  //         .then(windowClients => {
+  //             for (let i = 0; i < windowClients.length; i++) {
+  //                 const windowClient = windowClients[i];
+  //                 windowClient.postMessage(payload);
+  //             }
+  //         })
+  //         .then(() => {
+  //             return registration.showNotification("New Message");
+  //         });
+  //     return promiseChain;
+  // });
+  // self.addEventListener('notificationclick', function (event) {
+  //     console.log('notification received: ', event)
+  // });
+
 </script>
 
-  <script>
+  <!-- <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=530879533');
+        // 
+        navigator.serviceWorker.register('flutter_service_worker.js?v=3955316970');
+        // navigator.serviceWorker.register("/firebase-messaging-sw.js");
       });
     }
-  </script>
+  </script> -->
+  <script>
+    if ('serviceWorker' in navigator) {
+     window.addEventListener('load', function () {
+       navigator.serviceWorker.register("/firebase-messaging-sw.js");
+    });
+   }
+   </script>
   <script src="main.dart.js" type="application/javascript"></script>
 </body>
 </html>
