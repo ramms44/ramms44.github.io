@@ -1,246 +1,425 @@
 {
-    "response_code": 0,
-    "results": [
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Cenderung pendiam.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Berbelas kasih, memiliki hati yang lembut.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Cenderung tidak teratur.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Pencemas.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Terpersona pada seni, musik, atau sastra.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Mendominasi, bertindak sebagai pemimpin.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Terkadang kasar pada orang lain.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Mengalami kesulitan untuk memulai tugas.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Cenderung merasa tertekan, sedih.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Kurang berminat pada ide-ide yang abstrak",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Penuh dengan energi",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Berasumsi yang baik tentang orang lain.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Dapat dipercaya, selalu dapat diandalkan.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Stabil secara emosional, tidak mudah marah.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Orisinil, muncul dengan ide-ide baru.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Ramah, mudah bergaul.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Dapat menjadi tidak berperasaan dan tidak peduli.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Menjaga segala sesuatu tetap bersih dan rapi.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Santai, mengatasi stres dengan baik.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Memiliki sedikit minat seni.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Lebih suka jika orang lain yang bertanggung jawab.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Bersikap sopan, memperlakukan orang lain dengan hormat.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Gigih, bekerja sampai tugas selesai.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Merasa aman, nyaman dengan diri sendiri.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": " Rumit, suka berpikir terlalu dalam",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Kurang aktif dibandingkan orang lain.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Cenderung mencari kesalahan orang lain.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Bisa agak ceroboh.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Temperamental, mudah terbawa emosi.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      },
-      {
-        "category": "Test B",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Memiliki sedikit kreativitas.",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Tidak Sesuai","Kadang - Kadang", "Sesuai", "Sangat Sesuai"]
-      } 
-    ]
-  }
-  
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Cenderung pendiam.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Berbelas kasih, memiliki hati yang lembut.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Cenderung tidak teratur.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pencemas.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Terpersona pada seni, musik, atau sastra.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Mendominasi, bertindak sebagai pemimpin.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Terkadang kasar pada orang lain.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Mengalami kesulitan untuk memulai tugas.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Cenderung merasa tertekan, sedih.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Kurang berminat pada ide-ide yang abstrak",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Penuh dengan energi",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Berasumsi yang baik tentang orang lain.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Dapat dipercaya, selalu dapat diandalkan.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Stabil secara emosional, tidak mudah marah.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Orisinil, muncul dengan ide-ide baru.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Ramah, mudah bergaul.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Dapat menjadi tidak berperasaan dan tidak peduli.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Menjaga segala sesuatu tetap bersih dan rapi.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Santai, mengatasi stres dengan baik.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Memiliki sedikit minat seni.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Lebih suka jika orang lain yang bertanggung jawab.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Bersikap sopan, memperlakukan orang lain dengan hormat.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Gigih, bekerja sampai tugas selesai.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Merasa aman, nyaman dengan diri sendiri.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": " Rumit, suka berpikir terlalu dalam",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Kurang aktif dibandingkan orang lain.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Cenderung mencari kesalahan orang lain.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Bisa agak ceroboh.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Temperamental, mudah terbawa emosi.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    },
+    {
+      "category": "Test B",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Memiliki sedikit kreativitas.",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Sangat Sesuai",
+        "Sesuai",
+        "Netral",
+        "Tidak Sesuai",
+        "Sangat Tidak Sesuai"
+      ]
+    }
+  ]
+}
