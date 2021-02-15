@@ -275,7 +275,7 @@
       "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Ada 3  dari 5 bangun di bawah ini yang jika disatukan dapat membentuk segitiga. \nManakah ketiga bangun itu? \nPilih angka - angka tersebut pada kotak pilihan",
+      "question": "Ada 3 dari 5 bangun di bawah ini yang jika disatukan dapat membentuk segitiga. \nManakah ketiga bangun itu? \nPilih angka - angka tersebut pada kotak pilihan",
       "correct_answer": "7",
       "incorrect_answers": ["5", "3"]
     },
