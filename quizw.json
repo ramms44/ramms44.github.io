@@ -147,7 +147,7 @@
       "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Bentuk geometris ini dapat dibagi oleh sebuah garis lurus menjadi dua bagian yang kemudian dapat digabungkan untuk membentuk segi empat yang sempurna. \nTariklah garis itu dengan menghubungkan dua angka. Angka apa sajakah itu?",
+      "question": "Bentuk geometris ini dapat dibagi oleh sebuah garis lurus menjadi dua bagian yang kemudian dapat digabungkan untuk membentuk segi empat yang sempurna. \nTariklah garis itu dengan menghubungkan dua angka. Angka apa sajakah itu? \nPilih angka tersebut pada kotak pilihan",
       "correct_answer": "5",
       "incorrect_answers": ["2", "4"]
     },
@@ -275,7 +275,7 @@
       "category": "Test W",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Ada 3  dari 5 bangun di bawah ini yang jika disatukan dapat membentuk segitiga. \nManakah ketiga bangun itu?",
+      "question": "Ada 3  dari 5 bangun di bawah ini yang jika disatukan dapat membentuk segitiga. \nManakah ketiga bangun itu? \nPilih angka - angka tersebut pada kotak pilihan",
       "correct_answer": "7",
       "incorrect_answers": ["5", "3"]
     },

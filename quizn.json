@@ -14,145 +14,117 @@
       "type": "multiple",
       "difficulty": "medium",
       "question": "8, 9, 7, 10, 6, 11, 5, Y \nLanjutkan deret angka diatas, maka Y adalah bilangan",
-      "correct_answer": "4",
-      "incorrect_answers": ["6", "10", "12", "13"]
+      "correct_answer": "12",
+      "incorrect_answers": ["6", "10", "4", "13"]
     },
-    {
-      "category": "Test N",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "2, 6, 9, 3, 9, 12, 4, 12, Y \nLanjutkan deret angka diatas, maka Y adalah bilangan",
-      "correct_answer": "4",
-      "incorrect_answers": ["5", "8", "15", "18"]
-    },
-    {
-      "category": "Test N",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "4, 5, 6, 4, 8, 3, 10, 2, Y \nLanjutkan deret angka diatas, maka Y adalah bilangan",
-      "correct_answer": "-3",
-      "incorrect_answers": ["1", "3", "9", "12"]
-    },
-
     {
       "category": "Test N",
       "type": "multiple",
       "difficulty": "medium",
       "question": "8, 8, 6, 3, 12, 7, 1, Y \nLanjutkan deret angka diatas, maka Y adalah bilangan",
-      "correct_answer": "0",
-      "incorrect_answers": ["-4", "5", "7", "12"]
-    },
-    {
-      "category": "Test N",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "2, 8, 4, 16, 8, 32, 16, 64, Y \nLanjutkan deret angka diatas, maka Y adalah bilangan",
-      "correct_answer": "16",
-      "incorrect_answers": ["23", "32", "72", "182"]
-    },
-    {
-      "category": "Test N",
-      "type": "boolean",
-      "difficulty": "medium",
-      "question": "5, 7, 11, 19, 35, 67, 131, Y \nLanjutkan deret angka diatas, maka Y adalah bilangan",
-      "correct_answer": "159",
-      "incorrect_answers": ["230", "259", "269", "329"]
+      "correct_answer": "12",
+      "incorrect_answers": ["-4", "5", "7", "0"]
     },
     {
       "category": "Test N",
       "type": "multiple",
       "difficulty": "medium",
       "question": "Jika p adalah bilangan habis dibagi 6 dan nilainya di antara 13 dan 23, sedangkan q adalah bilangan yang habis dibagi 5 dan nilainya di antara 11 dan 19. Maka pernyataan yang paling tepat adalah",
-      "correct_answer": "p=q",
-      "incorrect_answers": ["p>q", "p<9", "2p<q", "2q<p"]
-    },
-    {
-      "category": "Test N",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Sebuah mobil menempuh 16 km dalam 30 menit. Berapa km per jam, mobil itu melaju",
-      "correct_answer": "32",
-      "incorrect_answers": ["23", "42"]
+      "correct_answer": "p>q",
+      "incorrect_answers": ["p=q", "p<9", "2p<q", "2q<p"]
     },
     {
       "category": "Test N",
       "type": "multiple",
       "difficulty": "medium",
       "question": "Jika p = 2q – r, q = r + 3 dan r = 2, maka yang benar adalah",
-      "correct_answer": "p<r<q",
-      "incorrect_answers": ["p<q<r", "q<r<p", "r<p<q", "r<q<p"]
+      "correct_answer": "p<q<r",
+      "incorrect_answers": ["p<r<q", "q<r<p", "r<p<q", "r<q<p"]
     },
     {
       "category": "Test N",
       "type": "multiple",
       "difficulty": "medium",
       "question": "Jika a = b, maka 4a + 3b = ….",
-      "correct_answer": "7",
-      "incorrect_answers": ["7b", "7ab", "2ab", "2a"]
+      "correct_answer": "7b",
+      "incorrect_answers": ["7", "7ab", "2ab", "2a"]
     },
     {
       "category": "Test N",
       "type": "multiple",
       "difficulty": "medium",
       "question": "Jika p = 2a + 3 dan q = a + 6, maka 2p + 4q = ….",
-      "correct_answer": "6a + 18",
-      "incorrect_answers": ["6a + 30", "6a + 27", "8a + 30", "8a + 27"]
+      "correct_answer": "8a + 30",
+      "incorrect_answers": ["6a + 30", "6a + 27", "6a + 18", "8a + 27"]
     },
     {
       "category": "Test N",
       "type": "multiple",
       "difficulty": "medium",
       "question": "Jika a ≥ 3 , maka nilai dari 5a + 3 adalah ....",
-      "correct_answer": "≥ 8",
-      "incorrect_answers": ["> 18", "≥ 18", "> 23", "≥ 23"]
+      "correct_answer": "≥ 18",
+      "incorrect_answers": ["> 8", "≥ 18", "> 23", "≥ 23"]
     },
     {
       "category": "Test N",
       "type": "multiple",
       "difficulty": "medium",
       "question": "Jika p = 2a + 3 dan q = 2b – 3, dengan a > 0 dan b < 0, maka nilai (p + q) : 2 adalah ....",
-      "correct_answer": "<0",
-      "incorrect_answers": [">0", ">1", "<1", "<2"]
+      "correct_answer": ">0",
+      "incorrect_answers": ["<0", ">1", "<1", "<2"]
     },
     {
       "category": "Test N",
       "type": "multiple",
       "difficulty": "medium",
       "question": "Jika a x b = 12, dengan a dan b adalah bilangan bulat positif, maka nilai maksimum nilai a + b – 1 adalah ....",
-      "correct_answer": "6",
-      "incorrect_answers": ["7", "8", "13", "12"]
+      "correct_answer": "12",
+      "incorrect_answers": ["7", "8", "13", "6"]
     },
     {
       "category": "Test N",
       "type": "multiple",
       "difficulty": "medium",
       "question": "Jika p > 3 dan q > 4, maka nilai p x q adalah ....",
-      "correct_answer": "< 12",
-      "incorrect_answers": ["= 12", "> 12", "≥ 20", "> 20"]
+      "correct_answer": "> 12",
+      "incorrect_answers": ["= 12", "12", "≥ 20", "> 20"]
+    },
+    {
+      "category": "Test N",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Diagram dibawah ini menyajikan data \n(dalam bilangan bulat), nilai sementara dan nilai ujian ulang mahasiswa peserta kuliah matematika, \nUjian ulang diikuti hanya oleh peserta kuliah tersebut dengan nilai sementara lebih kecil dari pada 6, \nJika yang dinyatakan lulus kuliah adalah mahasiswa yang memperoleh nilai sementara tidka lebih kecil daripada 6, \natau nilai ujian ulangnya adalah 6, \nmaka rata-rata nilai mahasiwa yang lulus mata kuliah tersebut adalah.",
+      "correct_answer": "7,00",
+      "incorrect_answers": ["6,33", "6,50", "6,75", "7,25"]
     },
     {
       "category": "Test N",
       "type": "multiple",
       "difficulty": "medium",
       "question": "Empat orang siswa akan mengikuti suatu perlombaan karya inovatif. Untuk itu, diperlukan biaya Rp. 900.000,00. Karena masing-masing memiliki kondisi keuangan yang berbeda, besar kontribusi masing-masing siswa tidak sama. Siswa A memberikan kontribusi setengah dari jumlah kontribusi tiga siswa lainnya. Siswa B memberikan kontribusi sepertiga dari jumlah kontribusi tiga siswa lainnya. Siswa C memberikan kontribusi seperempat dari jumlah kontribusi tiga siswa lainnya. Besar kontribusi siswa D adalah ….",
-      "correct_answer": "Rp.150.000,-",
-      "incorrect_answers": ["Rp.180.000,-", "Rp.195.000,-", "Rp.225.000,-", "Rp.300.000,-"]
+      "correct_answer": "Rp.195.000,-",
+      "incorrect_answers": [
+        "Rp.180.000,-",
+        "Rp.150.000,-",
+        "Rp.225.000,-",
+        "Rp.300.000,-"
+      ]
     },
     {
       "category": "Test N",
       "type": "multiple",
       "difficulty": "medium",
       "question": "Ihsan mengikuti lima kali tes matematika. Nilai empat tes pertamanya berturut-turut adalah 8, 7, 3, dan 7. Jika nilai tes terakhir Ihsan di ikutkan pada tes tersebut akan menghasilkan modus sama dengan rata-rata nilai, maka nilai tes terakhir Ihsan adalah ....",
-      "correct_answer": "6",
-      "incorrect_answers": ["7", "8", "9", "10"]
+      "correct_answer": "10",
+      "incorrect_answers": ["7", "8", "9", "6"]
     },
     {
       "category": "Test N",
       "type": "multiple",
       "difficulty": "medium",
       "question": "Seorang siswa sedang melakukan percobaan statistika dengan cara menggunakan 6 bola bilyar berturut-turut bernomor 1, 2, 3, 4, 5, dan 6. Semua bola tersebut dimasukkan ke dalam kotak. Selanjutnya diambil bola secara acak dan dicatat angka yang muncul sehingga membentuk bilangan. Angka pada bola yang muncul pertama dicatat sebagai ratusan, angka bola kedua sebagai puluhan, dan angka bola ketiga sebagai satuan. Jika bilangan yang sama dianggap sebagai satu kejadian dan peluang setiap kejadian adalah sama, maka peluang untuk mendapatkan bilangan yang lebih kecil dari pada 300 adalah...",
-      "correct_answer": "5/18",
-      "incorrect_answers": ["7/18", "2/5", "1/2", "7/10"]
+      "correct_answer": "2/5",
+      "incorrect_answers": ["7/18", "5/18", "1/2", "7/10"]
     }
   ]
 }
