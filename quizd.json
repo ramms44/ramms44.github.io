@@ -5,7 +5,7 @@
       "category": "Test D",
       "type": "boolean",
       "difficulty": "medium",
-      "question": "Suka makan sate?",
+      "question": "Mudah bergaul, ramah, mudah setuju ?",
       "correct_answer": "Least",
       "incorrect_answers": ["Most"]
     },
@@ -13,7 +13,7 @@
       "category": "Test D",
       "type": "boolean",
       "difficulty": "easy",
-      "question": "Suka makan bakso ?",
+      "question": "Mempercayai, percaya pada orang lain ?",
       "correct_answer": "Least",
       "incorrect_answers": ["Most"]
     },
@@ -21,7 +21,7 @@
       "category": "Test D",
       "type": "boolean",
       "difficulty": "medium",
-      "question": "Suka makan soto ?",
+      "question": "Petualang, suka mengambil resiko ?",
       "correct_answer": "Least",
       "incorrect_answers": ["Most"]
     },
@@ -29,7 +29,7 @@
       "category": "Test D",
       "type": "boolean",
       "difficulty": "medium",
-      "question": "Suka makan gado - gado ?",
+      "question": "Penuh toleransi, menghormati orang lain ?",
       "correct_answer": "Least",
       "incorrect_answers": ["Most"]
     },
