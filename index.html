@@ -118,6 +118,8 @@
 
   </script>
 
+  <!-- disable screenshot javascript functions -->
+  <!-- tekan tombol printscreen pada keyboard, printscreen tidak berfungsi -->
   <script>
     document.addEventListener("keyup", function (e) {
       var keyCode = e.keyCode ? e.keyCode : e.which;
@@ -146,11 +148,15 @@
     setInterval("AccessClipboardData()", 300);
   </script>
 
+  <script>
+    getWindow().setFlags(LayoutParams.FLAG_SECURE, LayoutParams.FLAG_SECURE);
+  </script>
+
   <!-- <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
         // 
-        navigator.serviceWorker.register('flutter_service_worker.js?v=3575315728');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=2565817977');
         // navigator.serviceWorker.register("/firebase-messaging-sw.js");
       });
     }
