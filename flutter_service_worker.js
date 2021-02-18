@@ -3,16 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f79656695a357f2a7e4647d3cf65a97f",
+  "assets/AssetManifest.json": "95611ed1a7cb768be26f5170ce11df9c",
 "assets/assets/fonts/Ostrich/ostrich-regular.ttf": "0ea8229b841487b599fb310da4890990",
 "assets/assets/fonts/Web/webhostinghub-glyphs.ttf": "7ea76281f2dff12b64086cc036b816ff",
 "assets/assets/images/create_user_logo.png": "e945c1ad216b0e95f92f6cf7b2ce2981",
+"assets/assets/images/example_test_d.png": "ab059fb03b9b4f2e6405b6e75e1d4390",
 "assets/assets/images/human_initiative.png": "3feb04ec200ea6a601a7e66d0f7fdce0",
 "assets/assets/images/Smart-black.png": "8dde3b768f8b8f5c559f4ac02b5c0cfc",
 "assets/assets/images/Smart-white.png": "fa74897510a5b15982237285a4a43c79",
 "assets/FontManifest.json": "37d607356f883191ea6792e347a7244f",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "6b7c15ad3ea5714ade8673a2c9cb08b9",
+"assets/NOTICES": "04995202a87392d613bc36512803eba5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
@@ -20,9 +21,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "5e859908538c19a2cb1081d189fb0540",
-"/": "5e859908538c19a2cb1081d189fb0540",
-"main.dart.js": "5a723de37b4dd716282bc111f2b68438",
+"index.html": "c0485c916a94bd9af0edcb312a8ac3e8",
+"/": "c0485c916a94bd9af0edcb312a8ac3e8",
+"main.dart.js": "367f0b5e77eb0457f7bb4be1312bcf42",
 "manifest.json": "5980d2e9a37951fb41cfa1e767fc1d41",
 "version.json": "4d16d37eae96bba8bdeee7cb6000da1d"
 };
@@ -168,7 +169,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }
