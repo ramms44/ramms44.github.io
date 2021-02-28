@@ -1,7 +1,8 @@
 <!-- // This file should reside on the server, not inside this app. -->
 
 <?php
-    $servername = "https://mawar.ardetamedia.net";
+
+    $servername = "mawar.ardetamedia.net";
     $username = "slisicid_dbtest";
     $password = "SUDU+w=s~1@7";
     $dbname = "slisicid_dbtest";
