@@ -1,5 +1,17 @@
 [
   {
+    "username": "superadmin",
+    "password": "superadmin"
+  },
+  {
+    "username": "admin_company_a",
+    "password": "admin_company_a"
+  },
+  {
+    "username": "admin_company_b",
+    "password": "admin_company_b"
+  },
+  {
     "username": "aman1000",
     "password": "aman1000"
   },
