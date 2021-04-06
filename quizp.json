@@ -142,8 +142,8 @@
         "type": "multiple",
         "difficulty": "medium",
         "question": "Pilih salah satu dari dua pernyataan berikut",
-        "correct_answer": "Sangat Tidak Sesuai",
-        "incorrect_answers": ["Sangat Sesuai", "Sesuai", "Netral", "Tidak Sesuai"]
+        "correct_answer": "Saya suka mencoba hal-hal yang baru",
+        "incorrect_answers": ["Saya lebih suka bekerja bersama oranglain daripada sendiri"]
       },
       {
         "category": "Test P",
