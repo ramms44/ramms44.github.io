@@ -2,290 +2,732 @@
   "response_code": 0,
   "results": [
     {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "SAKIT adalah lawan dari",
-      "correct_answer": "Sembuh",
-      "incorrect_answers": ["Racun", "Kesedihan", "Kepedihan", "Hukuman"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya seorang pekerja keras",
+      "incorrect_answers": ["Saya bukan seorang pemurung"]
     },
     {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "100  -   97  -  94  -  ?  -  88  -  85  -  82 \nDalam deretan angka-angka ini, terdapat angka yang dihilangkan. Angka berapakah itu?",
-      "correct_answer": "91",
-      "incorrect_answers": ["51", "31", "21", "71"]
-    },
-    {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "DERMAWAN adalah lawan kata dari",
-      "correct_answer": "Pelit",
-      "incorrect_answers": ["Ningrat", "Populer", "Buruk", "Miskin"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka bekerja lebih baik dari yang lain",
+      "incorrect_answers": ["Saya suka menekuni pekerjaan yang saya lakukan sampai selesai"]
     },
     {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "KEMEWAHAN adalah lawan kata dari",
-      "correct_answer": "Kemiskinan",
-      "incorrect_answers": ["Berlimpah", "Senang", "Demosi", "Kegagalan"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka menunjukkan orang bagaimana melakukan hal-hal ",
+      "incorrect_answers": ["Saya ingin berbuat sebaik mungkin"]
     },
     {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Dalam kelompok kata berikut, manakah kata yang berbeda dari kata yang lain",
-      "correct_answer": "Sepeda",
-      "incorrect_answers": ["Mobil", "Mini Van", "Bus", "Truk"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka melakukan hal-hal yang lucu",
+      "incorrect_answers": ["Saya senang memberitahukan orang apa yang harus dikerjakan"]
     },
     {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Berlambat-lambat adalah lawan kata dari ",
-      "correct_answer": "Tergesa - gesa",
-      "incorrect_answers": ["Mempertahankan", "Menuntut", "Tetap", "Pelan"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka bergabung dalam kelompok",
+      "incorrect_answers": ["Saya suka jika diperhatikan oleh kelompok"]
     },
     {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Biola semelodi dengan piano. Piano semelodi dengan harpa. Biola semelodi dengan harpa. \nDari pernyataan di atas, anggaplah dua pernyataan pertama adalah benar. Maka pernyataan terakhir adalah ",
-      "correct_answer": "Benar",
-      "incorrect_answers": ["Salah", "Tidak Tahu"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka membuat teman pribadi yang dekat",
+      "incorrect_answers": ["Saya suka berteman dengan suatu kelompok"]
     },
     {
-      "category": "Test W",
-      "type": "boolean",
-      "difficulty": "medium",
-      "question": "bensin  -  kayu  -   adalah  -   batu bara  -  dan  -   untuk  -   digunakan \nMisalkan Anda menyusun kata di atas ini sehingga menjadi kalimat lengkap. Maka kalimat itu akan menjadi benar atau salah?",
-      "correct_answer": "Benar",
-      "incorrect_answers": ["Salah"]
-    },
-    {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "SYAH - SAH \n Apakah kedua kata ini",
-      "correct_answer": "memiliki arti yang sama",
-      "incorrect_answers": [
-        "memiliki arti berlawanan",
-        "tidak memiliki arti sama maupun berlawanan"
-      ]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya cepat berubah jika saya rasa diperlukan",
+      "incorrect_answers": ["Saya berusaha membuat teman-teman pribadi yang dekat"]
     },
     {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Sebuah mobil menempuh 16 km dalam 30 menit. Berapa km per jam, mobil itu melaju",
-      "correct_answer": "32",
-      "incorrect_answers": ["23", "42"]
-    },
-    {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Seorang anak membeli beberapa buah jeruk seharga 2.000 rupiah. Ia menjual buah jeruk itu seharga 2.400 rupiah ke temannya. Ia mendapat untung 50 rupiah dari setiap jeruk. Berapa banyak jeruk yang anak itu beli?",
-      "correct_answer": "8",
-      "incorrect_answers": ["2", "3"]
-    },
-    {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Dari enam pasangan ini, ada berapakah jumlah pasangan yg duplikasi sama",
-      "correct_answer": "8",
-      "incorrect_answers": ["2", "3"]
-    },
-    {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Seorang anak berumur 6 tahun, kakaknya dua kali lebih tua darinya. Saat anak itu berumur 10 tahun, berapa umur kakaknya",
-      "correct_answer": "16",
-      "incorrect_answers": ["17", "21"]
-    },
-    {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Pada kata-kata di bawah ini, manakah kata yang berbeda dengan yang lainnya?",
-      "correct_answer": "seorang pria",
-      "incorrect_answers": ["armada", "band", "anak-anak", "kerumunan"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka membalas jika saya disakiti",
+      "incorrect_answers": ["Saya suka melakukan hal-hal yang baru dan berbeda"]
     },
     {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "adalah – bumi – bentuk – bulat – kita \nSusunlah kata di atas menjadi pernyataan yang benar. Lalu tulislah HURUF terakhir dari kata yang paling akhir",
-      "correct_answer": "T",
-      "incorrect_answers": ["A", "C", "H", "F"]
-    },
-    {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "LIBURAN - KERJA",
-      "correct_answer": "memiliki arti yang berlawanan",
-      "incorrect_answers": [
-        "memiliki arti yang sama",
-        "tidak memiliki arti yang sama maupun berlawanan"
-      ]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya ingin agar atasan menyukai saya",
+      "incorrect_answers": ["Saya suka memberitahu orang jika mereka salah"]
     },
     {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "81  -  27  -  9  -  3  -  1  -  1/3 \n Lihatlah baris angka di atas. Angka berapakah yang muncul selanjutnya? ",
-      "correct_answer": "1/9",
-      "incorrect_answers": ["2", "4"]
-    },
-    {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Bentuk geometris ini dapat dibagi oleh sebuah garis lurus menjadi dua bagian yang kemudian dapat digabungkan untuk membentuk segi empat yang sempurna. \nTariklah garis itu dengan menghubungkan dua angka. Angka apa sajakah itu? \nPilih angka tersebut pada kotak pilihan",
-      "correct_answer": "5",
-      "incorrect_answers": ["2", "4"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka mengikuti petunjuk-petunjuk yang diberikan kepada saya",
+      "incorrect_answers": ["Saya suka menyenangkan atasan"]
     },
     {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Dari 5 pasangan nama di bawah ini, berapa banyak pasangan nama yang sama",
-      "correct_answer": "1/9",
-      "incorrect_answers": ["2", "4"]
-    },
-    {
-      "category": "Test W",
-      "type": "boolean",
-      "difficulty": "medium",
-      "question": "semua – adalah – orang Jawa – Indonesia – dari – warga negara \nSusunlah kata-kata di atas menjadi sebuah kalimat pernyataan. \nApakah kalimat pernyataan itu benar atau salah?",
-      "correct_answer": "Salah",
-      "incorrect_answers": ["Benar"]
-    },
-    {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Semua pria berambut keriting menyukai permen. \nCharles berambut keriting. Charles menyukai permen. \nAnggaplah dua pernyataan pertama adalah benar. Maka pernyataan ketiga : ",
-      "correct_answer": "Benar",
-      "incorrect_answers": ["Salah", "Tidak Tahu"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya berusaha sangat keras",
+      "incorrect_answers": ["Saya seorang yang teratur. Saya menaruh semua barang pada tepatnya"]
     },
     {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Sebuah kotak persegi empat yang terisi penuh, memuat 900 sentimeter kubik pasir. \nJika satu kotak lebarnya 10 sentimeter dan panjangnya 10 sentimeter, berapa tinggi kotak itu?",
-      "correct_answer": "9",
-      "incorrect_answers": ["4", "3", "7"]
-    },
-    {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Sebuah jam terlambat 1 menit 12 detik dalam 24 hari. \nBerapa detik ia terlambat setiap harinya?",
-      "correct_answer": "3",
-      "incorrect_answers": ["4", "2", "7"]
-    },
-    {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Semua pemimpin berjiwa progresif. Sebagian besar pemimpin adalah wirausahawan. \nOrang yang berjiwa progresif adalah wirausahawan. \nAnggaplah dua pernyataan pertama ini benar. Apakah pertanyaan terakhir: ",
-      "correct_answer": "Benar",
-      "incorrect_answers": ["Salah", "Tidak Tahu"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya dapat membuat orang melakukan apa yang saya inginkan",
+      "incorrect_answers": ["Saya tidak mudah marah"]
     },
     {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Pulsa telpon per menit biayanya 300 rupiah. \nBerapa menit anda dapat memakai untuk 10.000 rupiah?",
-      "correct_answer": "33,33",
-      "incorrect_answers": ["22,22", "44", "99"]
-    },
-    {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Jumlah duplikasi dari pasangan kata di bawah ini adalah? ",
-      "correct_answer": "1",
-      "incorrect_answers": ["2", "3", "4", "5"]
-    },
-    {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Bila 2 ½ meter kain harganya 20.000 rupiah, berapa harga 3½ meter kain?",
-      "correct_answer": "28000",
-      "incorrect_answers": ["1800", "1400", "900"]
-    },
-    {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Dua orang menangkap 75 ikan. \nA menangkap 4 kali lebih banyak dari B. Berapa ikan yang B tangkap",
-      "correct_answer": "15",
-      "incorrect_answers": ["14", "28", "30"]
-    },
-    {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Dalam kata berikut ini, manakah kata yang berbeda dari lainnya? ",
-      "correct_answer": "solo",
-      "incorrect_answers": ["kumpulan", "konvoi", "kelompok", "angkatan"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka memberi tahu kepada kelompok apa yang harus mereka kerjakan",
+      "incorrect_answers": ["Saya selalu menekuni suatu pekerjaan sampai selesai"]
     },
     {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Berto memberi salam pada Elis. Elis memberi salam pada Luki. \nBerto tidak memberi salam pada Luki. \nAnggaplah dua pernyataan pertama benar. Maka pernyataan terakhir:",
-      "correct_answer": "Tidak Tahu",
-      "incorrect_answers": ["Benar", "Salah"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya ingin tampak menyenangkan dan menarik",
+      "incorrect_answers": ["Saya ingin menjadi orang yang sangat berhasil"]
     },
     {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "  2   -  1   -   9  -   0.9  -   0.999  -  0.88 \nApakah angka terkecil dari deret angka tersebut?",
-      "correct_answer": "0.88",
-      "incorrect_answers": ["0.77", "0.66"]
-    },
-    {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "Sepotong daging sapi beratnya 250 kg. \nRata-rata konsumsi daging sapi dalam keluarga setiap harinya adalah 1.6 kg. \nBerapa lama daging sapi ini akan dihabiskan keluarga itu?",
-      "correct_answer": "150",
-      "incorrect_answers": ["80", "160"]
-    },
-    {
-      "category": "Test W",
-      "type": "shortanswer",
-      "difficulty": "medium",
-      "question": "8  -  9  - 12  - 13  -  16  -  17  -  18 \nDeret angka di atas memiliki kesalahan yaitu URUTAN angka yang ke..",
-      "correct_answer": "7",
-      "incorrect_answers": ["5", "3"]
-    },
-    {
-      "category": "Test W",
+      "category": "Test P",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Ada 3 dari 5 bangun di bawah ini yang jika disatukan dapat membentuk segitiga. \nManakah ketiga bangun itu? \nPilih angka - angka tersebut pada kotak pilihan",
-      "correct_answer": "7",
-      "incorrect_answers": ["5", "3"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya ingin sesuai dan diterima dalam kelompok",
+      "incorrect_answers": ["Saya suka membantu orang mengambil keputusan"]
     },
     {
-      "category": "Test W",
-      "type": "shortanswer",
+      "category": "Test P",
+      "type": "multiple",
       "difficulty": "medium",
-      "question": "41  -   2  -  1   -  0.8  -  0.888  -   0.99 \nTulis angka terkecil dalam deret di atas? ",
-      "correct_answer": "0.8",
-      "incorrect_answers": ["0.4", "0.3"]
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya cemas bila seseorang tidak menyukai saya",
+      "incorrect_answers": ["Saya suka orang memperhatikan saya"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka mencoba hal-hal yang baru",
+      "incorrect_answers": ["Saya lebih suka bekerja bersama oranglain daripada sendiri"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Sangat Tidak Sesuai",
+      "incorrect_answers": ["Sangat Sesuai", "Sesuai", "Netral", "Tidak Sesuai"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya kadang-kadang menyalahkan orang lain jika terjadi kesalahan",
+      "incorrect_answers": ["Saya merasa terganggu jika ada yang tidak menyukai saya"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka menyenangkan atasan",
+      "incorrect_answers": ["Saya suka mencoba pekerjaan-pekerjaan yang baru dan berbeda "]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya menyukai petunjuk-petunjuk terperinci dalam menyelesaikan pekerjaan",
+      "incorrect_answers": ["Bila saya terganggu oleh siapapun, saya akan memberitahukannya"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya selalu berusaha keras",
+      "incorrect_answers": ["Saya suka melaksanakan setiap langkah dengan hati-hati"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya akan menjadi seorang pemimpin yang baik.",
+      "incorrect_answers": ["Saya dapat mengorganisir suatu pekerjaan dengan baik"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya mudah tersinggung",
+      "incorrect_answers": ["Saya  lambat dalam membuat keputusan"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka mengerjakan beberapa pekerjaan sekaligus",
+      "incorrect_answers": ["Bila saya berada dalam satu kelompok saya suka berdiam diri"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya sangat suka bila saya diundang",
+      "incorrect_answers": ["Saya ingin lebih baik dari yang lain dalam mengerjakan sesuatu"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka membuat teman-teman pribadi yang dekat",
+      "incorrect_answers": ["Saya suka menasehati orang lain"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka melakukan hal-hal yang baru dan berbeda",
+      "incorrect_answers": ["Saya suka menceritakan bagaimana saya berhasil melakukan sesuatu"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Bila saya betul saya suka mempertahankannya",
+      "incorrect_answers": ["Saya ingin diterima dan diakui dalam suatu kelompok"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya menghindar menjadi seorang yang berbeda",
+      "incorrect_answers": ["Saya berusaha menjadi sangat dekat dengan orang"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya senang diberitahu bagaimana melakukan sesuatu pekerjaan",
+      "incorrect_answers": ["Saya mudah bosan"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya bekerja keras",
+      "incorrect_answers": ["Saya banyak berpikir dan merencanakan"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya memimpin kelompok",
+      "incorrect_answers": ["Detail (hal-hal kecil) menarik bagi saya"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya dapat mengambil keputusan secara mudah dan tepat",
+      "incorrect_answers": ["Saya menyimpan barang-barang saya secara rapi dan teratur"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya cepat dalam melaksanakan suatu pekerjaan",
+      "incorrect_answers": ["Saya tidak sering marah atau sedih"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya ingin menjadi bagian dari kelompok",
+      "incorrect_answers": ["Saya hanya ingin melakukan satu pekerjaan pada satu saat"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya berusaha membuat teman dekat",
+      "incorrect_answers": ["Saya berusaha keras menjadi yang terbaik"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka mode terbaru untuk pakaian dan mobil",
+      "incorrect_answers": ["Saya Suka bertanggungjawab bagi orang lain"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya menyukai perdebatan",
+      "incorrect_answers": ["Saya suka mendapat perhatian"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka menyenangkan atasan",
+      "incorrect_answers": ["Saya tertarik menjadi bagian dari kelompok"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka mengikuti peraturan dengan hati-hati",
+      "incorrect_answers": ["Saya suka orang mengenal saya dengan baik"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya berusaha sangat keras",
+      "incorrect_answers": ["Saya mempunyai sifat bersahabat"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Orang berpendapat saya seorang pemimpin yang baik",
+      "incorrect_answers": ["Saya berpikir panjang dan berhati-hati"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya sering mengambil kesempatan",
+      "incorrect_answers": ["Saya senang mengurus hal-hal yang kecil"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Orang berpendapat bahwa saya bekerja cepat",
+      "incorrect_answers": ["Orang berpendapat bahwa saya rapi dan teratur"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya senang berolah raga",
+      "incorrect_answers": ["Saya mempunyai pribadi yang menyenangkan"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya senang jika orang dekat dan bersahabat dengan saya",
+      "incorrect_answers": ["Saya selalu berusaha untuk menyelesaikan sesuatu yang telah saya mulai"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya senang bereksperimen dan mencoba hal-hal baru",
+      "incorrect_answers": ["Saya suka melaksanakan sesuatu pekerjaan sulit dengan baik"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka diperlakukan secara adil",
+      "incorrect_answers": ["Saya suka memberitahukan orang lain bagaimana melaksanakan sesuatu"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka melakukan apa yang diharapkan dari saya",
+      "incorrect_answers": ["Saya suka memperoleh perhatian"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka petunjuk-petunjuk terperinci dalam melaksanakan sesuatu pekerjaan",
+      "incorrect_answers": ["Saya suka berada bersama orang-orang"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya selalu berusaha menyelesaikan pekerjaan secara sempurna",
+      "incorrect_answers": ["Orang mengatakan bahwa saya tidak mengenal lelah"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya tipe pemimpin ",
+      "incorrect_answers": ["Saya mudah berteman"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya mengambil spekulasi",
+      "incorrect_answers": ["Saya banyak sekali berpikir"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya bekerja dengan kecepatan yang teratur",
+      "incorrect_answers": ["Saya senang bekerja dengan hal-hal kecil/ terperinci"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya mempunyai banyak tenaga untuk berolahraga",
+      "incorrect_answers": ["Saya suka mengatur dan menyimpan barang-barang secara rapi dan teratur"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya dapat bergaul baik dengan semua orang",
+      "incorrect_answers": ["Saya seorang yang “even tempered” (tidak mudah marah)"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya ingin bertemu dengan orang-orang baru dan melakukan hal yang baru",
+      "incorrect_answers": ["Saya selalu ingin menyelesaikan pekerjaan yang telah saya mulai"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya biasanya mempertahankan pendapat yang saya yakini",
+      "incorrect_answers": ["Saya biasanya suka bekerja keras"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka saran-saran dari orang-orang yang saya kagumi",
+      "incorrect_answers": ["Saya suka melayani orang-orang yang berwenang terhadap saya"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya biarkan diri saya banyak dipengaruhi oleh orang lain",
+      "incorrect_answers": ["Saya suka jika mendapat banyak perhatian"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya biasanya bekerja sangat keras",
+      "incorrect_answers": ["Saya biasanya bekerja cepat"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Apabila saya bicara. Kelompok mendengarkan ",
+      "incorrect_answers": ["Saya terampil dengan perkakas (alat-alat)"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya lambat dalam membuat teman",
+      "incorrect_answers": ["Saya lambat dalam mengambil keputusan"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya biasanya makan secara cepat",
+      "incorrect_answers": ["Saya suka membaca"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka pekerjaan dimana saya banyak bergerak",
+      "incorrect_answers": ["Saya suka pekerjaan yang harus dilaksanakan secara hati-hati"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya membuat sebanyak mungkin teman",
+      "incorrect_answers": ["Saya menemukan kembali apa yang telah saya simpan"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya merencanakan jauh-jauh sebelumnya",
+      "incorrect_answers": ["Saya selalu menyenangkan"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya mempertahankan dengan bangga nama baik saya",
+      "incorrect_answers": ["Saya terus menekuni suatu masalah sampai selesai"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka menyenangkan orang-orang yang saya kagumi",
+      "incorrect_answers": ["Saya ingin sukses"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka orang lain  yang membuat keputusan-keputusan untuk kelompok",
+      "incorrect_answers": ["Saya suka membuat keputusan-keputusan untuk kelompok"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya selalu berusaha keras",
+      "incorrect_answers": ["Saya mengambil keputusan secara cepat dan mudah"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Kelompok biasanya melakukan apa yang saya inginkan",
+      "incorrect_answers": ["Saya biasanya bekerja lelah"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya sering merasa lelah",
+      "incorrect_answers": ["Saya lamban dalam mengambil keputusan"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya bekerja cepat",
+      "incorrect_answers": ["Saya mudah berteman"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya biasanya mempunyai gairah dan tenaga",
+      "incorrect_answers": ["Saya banyak menghabiskan waktu dengan berpikir"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya sangat ramah terhadap orang",
+      "incorrect_answers": ["Saya suka pekerjaan yang memerlukan ketelitian"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya banyak berpikir dan merencana",
+      "incorrect_answers": ["Saya menyimpan segala sesuatu pada tempatnya"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka pekerjaan yang menuntut hal-hal yang terperinci",
+      "incorrect_answers": ["Saya tidak mudah marah"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka menurut orang yang saya kagumi ",
+      "incorrect_answers": ["Saya selalu menyelesaikan pekerjaan yang telah saya mulai"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka petunjuk-petunjuk yang jelas",
+      "incorrect_answers": ["Saya suka bekerja keras"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya mengajar apa yang saya inginkan",
+      "incorrect_answers": ["Saya seorang pemimpin yang baik"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya dapat membuat orang lain bekerja keras",
+      "incorrect_answers": ["Saya seorang yang bertipe santai tapi beruntung"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya mengambil keputusan secara cepat",
+      "incorrect_answers": ["Saya bicara dengan cepat"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya biasanya bekerja cepat",
+      "incorrect_answers": ["Saya berolahraga secara teratur"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya tidak suka bertemu orang",
+      "incorrect_answers": ["Saya cepat merasa lelah"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya membuat banyak sekali teman",
+      "incorrect_answers": ["Saya benyak menghabiskan waktu dengan berpikir"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya bekerja dengan teori",
+      "incorrect_answers": ["Saya suka bekerja dengan hal-hal yang terperinci"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka bekerja dengan hal-hal yang terperinci",
+      "incorrect_answers": ["Saya suka mengorganisir pekerjaan saya"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya menaruh barang pada tempatnya",
+      "incorrect_answers": ["Saya selalu menyenangkan"]
+    },
+    {
+      "category": "Test P",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pilih salah satu dari dua pernyataan berikut",
+      "correct_answer": "Saya suka diberitahu apa yang saya perlu lakukan",
+      "incorrect_answers": ["Saya harus menyelesaikan apa yang saya mulai"]
     }
   ]
 }
