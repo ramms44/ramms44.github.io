@@ -214,14 +214,6 @@
         "type": "multiple",
         "difficulty": "medium",
         "question": "Pilih salah satu dari dua pernyataan berikut",
-        "correct_answer": "Saya suka membuat teman-teman pribadi yang dekat",
-        "incorrect_answers": ["Saya suka menasehati orang lain"]
-      },
-      {
-        "category": "Test P",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Pilih salah satu dari dua pernyataan berikut",
         "correct_answer": "Saya suka melakukan hal-hal yang baru dan berbeda",
         "incorrect_answers": ["Saya suka menceritakan bagaimana saya berhasil melakukan sesuatu"]
       },
@@ -731,4 +723,3 @@
       }
     ]
   }
-  
