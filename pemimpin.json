@@ -1,6 +1,6 @@
 [
     {
-        "id" : "1",
+        "id" : 1,
         "id_popup" : ".bd-example-modal-lg1",
         "nama" : "DR. YUSLAM FAUZI,<br> SE, MBA",
         "jabatan" : "Ketua (Merangkap Anggota)",
@@ -12,7 +12,7 @@
         "img" : "assets/images/dr.-yuslam-fauzi-se-mba-596x596.jpg"
     },
     {
-        "id" : "2",
+        "id" : 2,
         "id_popup" : ".bd-example-modal-lg2",
         "nama" : "KHASAN FAOZI,<br> SE, M.SI",
         "jabatan" : "Anggota",
@@ -24,7 +24,7 @@
         "img" : "assets/images/khasan-faozi-se-m.si-596x596.jpg"
     },
     {
-        "id" : "3",
+        "id" : 3,
         "id_popup" : ".bd-example-modal-lg3",
         "nama" : "MOH. HATTA,<br> AK., MBA",
         "jabatan" : "Anggota",
@@ -36,7 +36,7 @@
         "img" : "assets/images/moh.-hatta-ak.-mba-596x596.jpg"
     },
     {
-        "id" : "4",
+        "id" : 4,
         "id_popup" : ".bd-example-modal-lg4",
         "nama" : "DR. KH MARSUDI SYUHUD",
         "jabatan" : "Anggota",
@@ -48,7 +48,7 @@
         "img" : "assets/images/dr.-kh-marsudi-syuhud-596x596.jpg"
     },
     {
-        "id" : "5",
+        "id" : 5,
         "id_popup" : ".bd-example-modal-lg5",
         "nama" : "IR. SUHAJI LESTIADI,<br> ME",
         "jabatan" : "Anggota",
@@ -60,7 +60,7 @@
         "img" : "assets/images/ir.-suhaji-lestiadi-me-596x596.jpg"
     },
     {
-        "id" : "6",
+        "id" : 6,
         "id_popup" : ".bd-example-modal-lg6",
         "nama" : "DR. MUHAMMAD AKHYAR ADNAN,<br> MBA, CA, AK",
         "jabatan" : "Anggota",
@@ -72,7 +72,7 @@
         "img" : ""
     },
     {
-        "id" : "7",
+        "id" : 7,
         "id_popup" : ".bd-example-modal-lg7",
         "nama" : "PROF. DR. ABD HAMID PADDU,<br> MA",
         "jabatan" : "Anggota",
@@ -84,7 +84,7 @@
         "img" : "assets/images/dr.-abd-hamid-paddu-ma-596x596.jpg"
     },
     {
-        "id" : "8",
+        "id" : 8,
         "id_popup" : ".bd-example-modal-lg8",
         "nama" : "DR. ANGGITO ABIMANYU,<br> M.SC",
         "jabatan" : "Kepala BPKH (Merangkap Anggota)",
@@ -96,7 +96,7 @@
         "img" : "assets/images/dr.-anggito-abimanyu-m.sc-596x596.jpg"
     },
     {
-        "id" : "9",
+        "id" : 9,
         "id_popup" : ".bd-example-modal-lg9",
         "nama" : "DR. IR. ACEP RIANA JAYAPRAWIRA",
         "jabatan" : "Anggota",
@@ -108,7 +108,7 @@
         "img" : "assets/images/dr.-ir.-acep-riana-jayaprawira-m.si-596x596.jpg"
     },
     {
-        "id" : "10",
+        "id" : 10,
         "id_popup" : ".bd-example-modal-lg10",
         "nama" : "DR. BENY WITJAKSONO,<br> S.P., MM",
         "jabatan" : "Anggota",
@@ -120,7 +120,7 @@
         "img" : "assets/images/dr.-beny-witjaksono-s.p.-mm-596x596.jpg"
     },
     {
-        "id" : "11",
+        "id" : 11,
         "id_popup" : ".bd-example-modal-lg11",
         "nama" : "A. ISKANDAR ZULKARNAIN,<br> SE, MM",
         "jabatan" : "Anggota",
@@ -132,7 +132,7 @@
         "img" : "assets/images/a.-iskandar-zulkarnain-se-mm-596x596.jpg"
     },
     {
-        "id" : "12",
+        "id" : 12,
         "id_popup" : ".bd-example-modal-lg12",
         "nama" : "DR. HURRIYAH EL ISLAMY,<br> LLB (HONS), MCL, PH.D",
         "jabatan" : "Anggota",
@@ -144,7 +144,7 @@
         "img" : "assets/images/dr.-hurriyah-el-islamy-llb-hons-m.cl-ph.d-596x596.jpg"
     },
     {
-        "id" : "13",
+        "id" : 13,
         "id_popup" : ".bd-example-modal-lg13",
         "nama" : "DR. RAHMAT HIDAYAT,<br> SE, MT",
         "jabatan" : "Anggota",
@@ -156,7 +156,7 @@
         "img" : "assets/images/dr.-rahmat-hidayat-se-mt-596x596.jpg"
     },
     {
-        "id" : "14",
+        "id" : 14,
         "id_popup" : ".bd-example-modal-lg14",
         "nama" : "IR. AJAR SUSANTO BROTO,<br> MM",
         "jabatan" : "Anggota",
