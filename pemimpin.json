@@ -1,6 +1,4 @@
-{
-  "response_code": 0,
-  "results": [
+[
     {
         "id" : ".bd-example-modal-lg1",
         "nama" : "DR. YUSLAM FAUZI, SE, MBA",
@@ -156,4 +154,3 @@
         "img" : "assets/images/ir.-ajar-susanto-broto-mm-596x596.jpg"
     }
 ]
-}
