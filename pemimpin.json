@@ -1,6 +1,7 @@
 [
     {
-        "id" : ".bd-example-modal-lg1",
+        "id" : "1",
+        "id_popup" : ".bd-example-modal-lg1",
         "nama" : "DR. YUSLAM FAUZI, SE, MBA",
         "jabatan" : "Ketua (Merangkap Anggota)",
         "tahun_kelahiran" : "",
@@ -11,7 +12,8 @@
         "img" : "assets/images/dr.-yuslam-fauzi-se-mba-596x596.jpg"
     },
     {
-        "id" : ".bd-example-modal-lg2",
+        "id" : "2",
+        "id_popup" : ".bd-example-modal-lg2",
         "nama" : "KHASAN FAOZI, SE, M.SI",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -22,7 +24,8 @@
         "img" : "assets/images/khasan-faozi-se-m.si-596x596.jpg"
     },
     {
-        "id" : ".bd-example-modal-lg3",
+        "id" : "3",
+        "id_popup" : ".bd-example-modal-lg3",
         "nama" : "MOH. HATTA, AK., MBA",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -33,7 +36,8 @@
         "img" : "assets/images/moh.-hatta-ak.-mba-596x596.jpg"
     },
     {
-        "id" : ".bd-example-modal-lg4",
+        "id" : "4",
+        "id_popup" : ".bd-example-modal-lg4",
         "nama" : "DR. KH MARSUDI SYUHUD",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -44,7 +48,8 @@
         "img" : "assets/images/dr.-kh-marsudi-syuhud-596x596.jpg"
     },
     {
-        "id" : ".bd-example-modal-lg5",
+        "id" : "5",
+        "id_popup" : ".bd-example-modal-lg5",
         "nama" : "IR. SUHAJI LESTIADI, ME",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -55,7 +60,8 @@
         "img" : "assets/images/ir.-suhaji-lestiadi-me-596x596.jpg"
     },
     {
-        "id" : ".bd-example-modal-lg6",
+        "id" : "6",
+        "id_popup" : ".bd-example-modal-lg6",
         "nama" : "DR. MUHAMMAD AKHYAR ADNAN, MBA, CA, AK",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -66,7 +72,8 @@
         "img" : ""
     },
     {
-        "id" : ".bd-example-modal-lg7",
+        "id" : "7",
+        "id_popup" : ".bd-example-modal-lg7",
         "nama" : "PROF. DR. ABD HAMID PADDU, MA",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -77,7 +84,8 @@
         "img" : "assets/images/dr.-abd-hamid-paddu-ma-596x596.jpg"
     },
     {
-        "id" : ".bd-example-modal-lg8",
+        "id" : "8",
+        "id_popup" : ".bd-example-modal-lg8",
         "nama" : "DR. ANGGITO ABIMANYU, M.SC",
         "jabatan" : "Kepala BPKH (Merangkap Anggota)",
         "tahun_kelahiran" : "",
@@ -88,7 +96,8 @@
         "img" : "assets/images/dr.-anggito-abimanyu-m.sc-596x596.jpg"
     },
     {
-        "id" : ".bd-example-modal-lg9",
+        "id" : "9",
+        "id_popup" : ".bd-example-modal-lg9",
         "nama" : "DR. IR. ACEP RIANA JAYAPRAWIRA",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -99,7 +108,8 @@
         "img" : "assets/images/dr.-ir.-acep-riana-jayaprawira-m.si-596x596.jpg"
     },
     {
-        "id" : ".bd-example-modal-lg10",
+        "id" : "10",
+        "id_popup" : ".bd-example-modal-lg10",
         "nama" : "DR. BENY WITJAKSONO, S.P., MM",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -110,7 +120,8 @@
         "img" : "assets/images/dr.-beny-witjaksono-s.p.-mm-596x596.jpg"
     },
     {
-        "id" : ".bd-example-modal-lg11",
+        "id" : "11",
+        "id_popup" : ".bd-example-modal-lg11",
         "nama" : "A. ISKANDAR ZULKARNAIN, SE, MM",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -121,7 +132,8 @@
         "img" : "assets/images/a.-iskandar-zulkarnain-se-mm-596x596.jpg"
     },
     {
-        "id" : ".bd-example-modal-lg12",
+        "id" : "12",
+        "id_popup" : ".bd-example-modal-lg12",
         "nama" : "DR. HURRIYAH EL ISLAMY, LLB (HONS), MCL, PH.D",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -132,7 +144,8 @@
         "img" : "assets/images/dr.-hurriyah-el-islamy-llb-hons-m.cl-ph.d-596x596.jpg"
     },
     {
-        "id" : ".bd-example-modal-lg13",
+        "id" : "13",
+        "id_popup" : ".bd-example-modal-lg13",
         "nama" : "DR. RAHMAT HIDAYAT, SE, MT",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -143,7 +156,8 @@
         "img" : "assets/images/dr.-rahmat-hidayat-se-mt-596x596.jpg"
     },
     {
-        "id" : ".bd-example-modal-lg14",
+        "id" : "14",
+        "id_popup" : ".bd-example-modal-lg14",
         "nama" : "IR. AJAR SUSANTO BROTO, MM",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
