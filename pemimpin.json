@@ -1,7 +1,7 @@
 [
     {
         "id" : 1,
-        "id_popup" : ".bd-example-modal-lg1",
+        "id_popup" : "bd-example-modal-lg1",
         "nama" : "DR. YUSLAM FAUZI,<br> SE, MBA",
         "jabatan" : "Ketua (Merangkap Anggota)",
         "tahun_kelahiran" : "",
@@ -13,7 +13,7 @@
     },
     {
         "id" : 2,
-        "id_popup" : ".bd-example-modal-lg2",
+        "id_popup" : "bd-example-modal-lg2",
         "nama" : "KHASAN FAOZI,<br> SE, M.SI",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -25,7 +25,7 @@
     },
     {
         "id" : 3,
-        "id_popup" : ".bd-example-modal-lg3",
+        "id_popup" : "bd-example-modal-lg3",
         "nama" : "MOH. HATTA,<br> AK., MBA",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -37,7 +37,7 @@
     },
     {
         "id" : 4,
-        "id_popup" : ".bd-example-modal-lg4",
+        "id_popup" : "bd-example-modal-lg4",
         "nama" : "DR. KH MARSUDI SYUHUD",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -49,7 +49,7 @@
     },
     {
         "id" : 5,
-        "id_popup" : ".bd-example-modal-lg5",
+        "id_popup" : "bd-example-modal-lg5",
         "nama" : "IR. SUHAJI LESTIADI,<br> ME",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -61,7 +61,7 @@
     },
     {
         "id" : 6,
-        "id_popup" : ".bd-example-modal-lg6",
+        "id_popup" : "bd-example-modal-lg6",
         "nama" : "DR. MUHAMMAD AKHYAR ADNAN,<br> MBA, CA, AK",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -69,11 +69,11 @@
         "agama" : "Islam",
         "pendidikan" : "",
         "pengalaman" : "",
-        "img" : "assets/images/dr.-muhammad-akhyar-adnan-mba-ca-ak-640x640.jpg"
+        "img" : ""
     },
     {
         "id" : 7,
-        "id_popup" : ".bd-example-modal-lg7",
+        "id_popup" : "bd-example-modal-lg7",
         "nama" : "PROF. DR. ABD HAMID PADDU,<br> MA",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -85,7 +85,7 @@
     },
     {
         "id" : 8,
-        "id_popup" : ".bd-example-modal-lg8",
+        "id_popup" : "bd-example-modal-lg8",
         "nama" : "DR. ANGGITO ABIMANYU,<br> M.SC",
         "jabatan" : "Kepala BPKH (Merangkap Anggota)",
         "tahun_kelahiran" : "",
@@ -97,7 +97,7 @@
     },
     {
         "id" : 9,
-        "id_popup" : ".bd-example-modal-lg9",
+        "id_popup" : "bd-example-modal-lg9",
         "nama" : "DR. IR. ACEP RIANA JAYAPRAWIRA",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -109,7 +109,7 @@
     },
     {
         "id" : 10,
-        "id_popup" : ".bd-example-modal-lg10",
+        "id_popup" : "bd-example-modal-lg10",
         "nama" : "DR. BENY WITJAKSONO,<br> S.P., MM",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -121,7 +121,7 @@
     },
     {
         "id" : 11,
-        "id_popup" : ".bd-example-modal-lg11",
+        "id_popup" : "bd-example-modal-lg11",
         "nama" : "A. ISKANDAR ZULKARNAIN,<br> SE, MM",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -133,7 +133,7 @@
     },
     {
         "id" : 12,
-        "id_popup" : ".bd-example-modal-lg12",
+        "id_popup" : "bd-example-modal-lg12",
         "nama" : "DR. HURRIYAH EL ISLAMY,<br> LLB (HONS), MCL, PH.D",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -145,7 +145,7 @@
     },
     {
         "id" : 13,
-        "id_popup" : ".bd-example-modal-lg13",
+        "id_popup" : "bd-example-modal-lg13",
         "nama" : "DR. RAHMAT HIDAYAT,<br> SE, MT",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
@@ -157,7 +157,7 @@
     },
     {
         "id" : 14,
-        "id_popup" : ".bd-example-modal-lg14",
+        "id_popup" : "bd-example-modal-lg14",
         "nama" : "IR. AJAR SUSANTO BROTO,<br> MM",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
