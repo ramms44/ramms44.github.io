@@ -69,7 +69,7 @@
         "agama" : "Islam",
         "pendidikan" : "",
         "pengalaman" : "",
-        "img" : "assets/images/dr.-muhammad-akhyar-adnan-mba-ca-ak-640x640.jpg"
+        "img" : ""
     },
     {
         "id" : 7,
@@ -83,4 +83,88 @@
         "pengalaman" : "",
         "img" : "assets/images/dr.-abd-hamid-paddu-ma-596x596.jpg"
     },
+    {
+        "id" : 8,
+        "id_popup" : ".bd-example-modal-lg8",
+        "nama" : "DR. ANGGITO ABIMANYU,<br> M.SC",
+        "jabatan" : "Kepala BPKH (Merangkap Anggota)",
+        "tahun_kelahiran" : "",
+        "status_pernikahan" : "Married",
+        "agama" : "Islam",
+        "pendidikan" : "",
+        "pengalaman" : "",
+        "img" : "assets/images/dr.-anggito-abimanyu-m.sc-596x596.jpg"
+    },
+    {
+        "id" : 9,
+        "id_popup" : ".bd-example-modal-lg9",
+        "nama" : "DR. IR. ACEP RIANA JAYAPRAWIRA",
+        "jabatan" : "Anggota",
+        "tahun_kelahiran" : "",
+        "status_pernikahan" : "Married",
+        "agama" : "Islam",
+        "pendidikan" : "",
+        "pengalaman" : "",
+        "img" : "assets/images/dr.-ir.-acep-riana-jayaprawira-m.si-596x596.jpg"
+    },
+    {
+        "id" : 10,
+        "id_popup" : ".bd-example-modal-lg10",
+        "nama" : "DR. BENY WITJAKSONO,<br> S.P., MM",
+        "jabatan" : "Anggota",
+        "tahun_kelahiran" : "",
+        "status_pernikahan" : "Married",
+        "agama" : "Islam",
+        "pendidikan" : "",
+        "pengalaman" : "",
+        "img" : "assets/images/dr.-beny-witjaksono-s.p.-mm-596x596.jpg"
+    },
+    {
+        "id" : 11,
+        "id_popup" : ".bd-example-modal-lg11",
+        "nama" : "A. ISKANDAR ZULKARNAIN,<br> SE, MM",
+        "jabatan" : "Anggota",
+        "tahun_kelahiran" : "",
+        "status_pernikahan" : "Married",
+        "agama" : "Islam",
+        "pendidikan" : "",
+        "pengalaman" : "",
+        "img" : "assets/images/a.-iskandar-zulkarnain-se-mm-596x596.jpg"
+    },
+    {
+        "id" : 12,
+        "id_popup" : ".bd-example-modal-lg12",
+        "nama" : "DR. HURRIYAH EL ISLAMY,<br> LLB (HONS), MCL, PH.D",
+        "jabatan" : "Anggota",
+        "tahun_kelahiran" : "",
+        "status_pernikahan" : "Married",
+        "agama" : "Islam",
+        "pendidikan" : "",
+        "pengalaman" : "",
+        "img" : "assets/images/dr.-hurriyah-el-islamy-llb-hons-m.cl-ph.d-596x596.jpg"
+    },
+    {
+        "id" : 13,
+        "id_popup" : ".bd-example-modal-lg13",
+        "nama" : "DR. RAHMAT HIDAYAT,<br> SE, MT",
+        "jabatan" : "Anggota",
+        "tahun_kelahiran" : "",
+        "status_pernikahan" : "Married",
+        "agama" : "Islam",
+        "pendidikan" : "",
+        "pengalaman" : "",
+        "img" : "assets/images/dr.-rahmat-hidayat-se-mt-596x596.jpg"
+    },
+    {
+        "id" : 14,
+        "id_popup" : ".bd-example-modal-lg14",
+        "nama" : "IR. AJAR SUSANTO BROTO,<br> MM",
+        "jabatan" : "Anggota",
+        "tahun_kelahiran" : "",
+        "status_pernikahan" : "Married",
+        "agama" : "Islam",
+        "pendidikan" : "",
+        "pengalaman" : "",
+        "img" : "assets/images/ir.-ajar-susanto-broto-mm-596x596.jpg"
+    }
 ]
