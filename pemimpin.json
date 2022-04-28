@@ -2,7 +2,7 @@
     {
         "id" : "1",
         "id_popup" : ".bd-example-modal-lg1",
-        "nama" : "DR. YUSLAM FAUZI,<br SE, MBA",
+        "nama" : "DR. YUSLAM FAUZI,<br> SE, MBA",
         "jabatan" : "Ketua (Merangkap Anggota)",
         "tahun_kelahiran" : "",
         "status_pernikahan" : "Married",
@@ -14,7 +14,7 @@
     {
         "id" : "2",
         "id_popup" : ".bd-example-modal-lg2",
-        "nama" : "KHASAN FAOZI,<br SE, M.SI",
+        "nama" : "KHASAN FAOZI,<br> SE, M.SI",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
         "status_pernikahan" : "Married",
@@ -26,7 +26,7 @@
     {
         "id" : "3",
         "id_popup" : ".bd-example-modal-lg3",
-        "nama" : "MOH. HATTA,<br AK., MBA",
+        "nama" : "MOH. HATTA,<br> AK., MBA",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
         "status_pernikahan" : "Married",
@@ -50,7 +50,7 @@
     {
         "id" : "5",
         "id_popup" : ".bd-example-modal-lg5",
-        "nama" : "IR. SUHAJI LESTIADI,<br ME",
+        "nama" : "IR. SUHAJI LESTIADI,<br> ME",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
         "status_pernikahan" : "Married",
@@ -62,7 +62,7 @@
     {
         "id" : "6",
         "id_popup" : ".bd-example-modal-lg6",
-        "nama" : "DR. MUHAMMAD AKHYAR ADNAN,<br MBA, CA, AK",
+        "nama" : "DR. MUHAMMAD AKHYAR ADNAN,<br> MBA, CA, AK",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
         "status_pernikahan" : "Married",
@@ -74,7 +74,7 @@
     {
         "id" : "7",
         "id_popup" : ".bd-example-modal-lg7",
-        "nama" : "PROF. DR. ABD HAMID PADDU,<br MA",
+        "nama" : "PROF. DR. ABD HAMID PADDU,<br> MA",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
         "status_pernikahan" : "Married",
@@ -86,7 +86,7 @@
     {
         "id" : "8",
         "id_popup" : ".bd-example-modal-lg8",
-        "nama" : "DR. ANGGITO ABIMANYU,<br M.SC",
+        "nama" : "DR. ANGGITO ABIMANYU,<br> M.SC",
         "jabatan" : "Kepala BPKH (Merangkap Anggota)",
         "tahun_kelahiran" : "",
         "status_pernikahan" : "Married",
@@ -110,7 +110,7 @@
     {
         "id" : "10",
         "id_popup" : ".bd-example-modal-lg10",
-        "nama" : "DR. BENY WITJAKSONO,<br S.P., MM",
+        "nama" : "DR. BENY WITJAKSONO,<br> S.P., MM",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
         "status_pernikahan" : "Married",
@@ -122,7 +122,7 @@
     {
         "id" : "11",
         "id_popup" : ".bd-example-modal-lg11",
-        "nama" : "A. ISKANDAR ZULKARNAIN,<br SE, MM",
+        "nama" : "A. ISKANDAR ZULKARNAIN,<br> SE, MM",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
         "status_pernikahan" : "Married",
@@ -134,7 +134,7 @@
     {
         "id" : "12",
         "id_popup" : ".bd-example-modal-lg12",
-        "nama" : "DR. HURRIYAH EL ISLAMY,<br LLB (HONS), MCL, PH.D",
+        "nama" : "DR. HURRIYAH EL ISLAMY,<br> LLB (HONS), MCL, PH.D",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
         "status_pernikahan" : "Married",
@@ -146,7 +146,7 @@
     {
         "id" : "13",
         "id_popup" : ".bd-example-modal-lg13",
-        "nama" : "DR. RAHMAT HIDAYAT,<br SE, MT",
+        "nama" : "DR. RAHMAT HIDAYAT,<br> SE, MT",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
         "status_pernikahan" : "Married",
@@ -158,7 +158,7 @@
     {
         "id" : "14",
         "id_popup" : ".bd-example-modal-lg14",
-        "nama" : "IR. AJAR SUSANTO BROTO,<br MM",
+        "nama" : "IR. AJAR SUSANTO BROTO,<br> MM",
         "jabatan" : "Anggota",
         "tahun_kelahiran" : "",
         "status_pernikahan" : "Married",
